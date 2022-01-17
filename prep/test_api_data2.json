@@ -1,0 +1,53 @@
+{
+  "project": {
+    "customer_name": "Daniel_Customer",
+    "project_name": "RIM_Excel_v0.57",
+    "author": "Daniel Xia",
+    "is_customized": false
+  },
+  "users": {
+    "totalRegistrationUsers": 10,
+    "concurrentRegistrationUsers": 0,
+    "totalPublishUsers": 10,
+    "concurrentPublishUsers": 10,
+    "totalViewUsers": 10,
+    "concurrentViewUsers": 0
+  },
+  "environments": {
+    "nProdEnv": 1,
+    "nNonProdValidatedEnv": 1,
+    "nNonProdEnv": 1,
+    "prodEnvSharedRatio": 0,
+    "nonProdValidatedEnvSharedRatio": 0,
+    "nonProdEnvSharedRatio": 0
+  },
+  "misc": {
+    "isMultiTenant": false,
+    "multiTenantDbRatio": 0.0625,
+    "hasProdReadReplicaDatabase": false,
+    "hasNonProdValReadReplicaDatabase": false,
+    "hasNonProdReadReplicaDatabase": false,
+    "hasCitrix": false,
+    "dbStorage": 512,
+    "azureRegion": "US",
+    "contractTerm": 3
+  },
+  "analytics": {
+    "hasPowerBi": false,
+    "reportCreators": 0,
+    "superUsers": 10,
+    "standardUser": 20
+  },
+  "azureFileShare": {
+    "azureFileShareStorage": 16000,
+    "azureFilesShareSyncServers": 2
+  },
+  "internal": {
+    "useAzureRiRate": true,
+    "hasVendorDiscount": true,
+    "slaTarget": 0.995,
+    "hasDisasterRecovery": true,
+    "drRpo": 1,
+    "drRto": 8
+  }
+}

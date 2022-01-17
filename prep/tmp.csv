@@ -1,0 +1,13 @@
+﻿vendor,service_name,description,sku,os_type,currency,billing_type,unit_price,reservation_term,azure_region
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,US EAST 2
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,US CENTRAL
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,EU WEST
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,EU NORTH
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,CN EAST 2
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,CN NORTH 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,US EAST 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,US CENTRAL
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,EU WEST
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,EU NORTH
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,CN EAST 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,CN NORTH 2

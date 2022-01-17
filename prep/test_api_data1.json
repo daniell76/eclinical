@@ -1,0 +1,53 @@
+{
+  "project": {
+    "customer_name": "Daniel_Customer",
+    "project_name": "Daniel_Project",
+    "author": "Daniel Xia",
+    "is_customized": false
+  },
+  "users": {
+    "totalRegistrationUsers": 100,
+    "concurrentRegistrationUsers": 10,
+    "totalPublishUsers": 100,
+    "concurrentPublishUsers": 10,
+    "totalViewUsers": 100,
+    "concurrentViewUsers": 10
+  },
+  "environments": {
+    "nProdEnv": 1,
+    "nNonProdValidatedEnv": 1,
+    "nNonProdEnv": 1,
+    "prodEnvSharedRatio": 1,
+    "nonProdValidatedEnvSharedRatio": 1,
+    "nonProdEnvSharedRatio": 1
+  },
+  "misc": {
+    "isMultiTenant": false,
+    "multiTenantDbRatio": 0.0625,
+    "hasProdReadReplicaDatabase": true,
+    "hasNonProdValReadReplicaDatabase": true,
+    "hasNonProdReadReplicaDatabase": true,
+    "hasCitrix": true,
+    "dbStorage": 512,
+    "azureRegion": "CN",
+    "contractTerm": 3
+  },
+  "analytics": {
+    "hasPowerBi": false,
+    "reportCreators": 0,
+    "superUsers": 0,
+    "standardUser": 0
+  },
+  "azureFileShare": {
+    "azureFileShareStorage": 1024,
+    "azureFilesShareSyncServers": 1
+  },
+  "internal": {
+    "useAzureRiRate": true,
+    "hasVendorDiscount": true,
+    "slaTarget": 0.995,
+    "hasDisasterRecovery": true,
+    "drRpo": 1,
+    "drRto": 8
+  }
+}

@@ -1,0 +1,19 @@
+1. VM Cost: seems we already listed os disk, data disk separately, however the VM price still added 1 standard disk to the quote?
+    A: We are using P-SSD for all VM disks, the standard disk shall be removed from VM's cost
+2. For ASR, we need to add an extra copy of VM disks. These ASR disks are not counted in backup diskspaces. Is it true?
+    A: Yes. ASR disks do not need backup
+3. All the labor cost currently is distributed to 3 years. Shall we distribute to match the client's contract term?
+    A: Yes. Should be distributed to match the term
+4. How the power BI user licenses are counted now?
+    A: only superusers are charged.
+5. Currency (excl. China): everything is counted in USD?
+    A: Yes.
+6. For multitenant clients, database setup fee needs to be shared?
+    A: No. only the server is shared, however every client's database needs to be setup separately.
+7. RI/CPP discount % is based on 24x31=744 hours/month, however in Excel 730 hours/month is used?
+    A: for RI/CPP discount percentage, the actual cost shall be based on 744 hours/month, i.e.
+        PAYG Monthly Cost = 730 x hourly rate
+        RI/CPP Monthly Cost = 744 x (1-discount%) x hourly rate
+        *** more precisely, the average monthly hour = 365.25 x 24 / 12 = 730.5
+8. Is the price inc. VAT?
+9. Any update on Azure price list?

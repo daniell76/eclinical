@@ -1,0 +1,19 @@
+post /new_project:
+  RimCalclator:
+    .new_proj():
+      new Proj ID,
+      calc .dbSummaryRecords,
+      .get_tshirt_size()
+      .new_proj_version():
+        .new_version_content()：
+          .new_db_env_records()：
+          .new_db_detail_records()：
+
+
+
+required DB vm:
+E8-4S_V3: (E8S_V3)
+E16-8S_V3: (E16S_V3)
+E32-16S_v3: (E32S_V3)
+13818419577
+

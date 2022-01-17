@@ -1,0 +1,161 @@
+﻿vendor,service_name,description,sku,os_type,currency,billing_type,unit_price,reservation_term,azure_region
+Calyx,,VM setup fee - 1,labor_vm_1,,USD,ONEOFF,360,0,
+Calyx,,VM setup fee - 2,labor_vm_2,,USD,ONEOFF,540,0,
+Calyx,,Sync Server,fs_sync_server,,USD,ANNUAL,60,0,
+Calyx,,DR Setup & Storage Replication,dr_setup,,USD,ANNUAL,400.11,0,
+Calyx,,DR Testing & DRP maintenance,dr_test,,USD,ANNUAL,120.12,0,
+Calyx,,Database setup per server,db_setup,,USD,ONEOFF,1201.2,0,
+Calyx,,Sys Eng Service Requests Packs (8 hrs p pack) per VM,sys_eng_sr_pack,,USD,ANNUAL,320.33,0,
+Calyx,,Database quiessence/maintenance events,db_case,,USD,ANNUAL,15,0,
+Redhat,,RHEL license fee,lic_rhel,,USD,ANNUAL,525.96,0,
+Citrix,,Citrix Services & RDS Cals per user,citrix_delivery,,USD,ANNUAL,318.3,0,
+Cisco,,Cisco AMP agent for Windows,csco_amp,,USD,ANNUAL,5.3,0,
+Shavlik,,Shavlik/Ivanti Patch Management for Windows,si_patch_mgmt,,USD,ANNUAL,26.32,0,
+Micorsoft,,Microsoft office annual cost,ms_office_cost,,USD,ANNUAL,196.14,0,
+Adobe,,Adobe annual cost,adobe_cost,,USD,ANNUAL,388,0,
+Documentum,,Documentun annual cost,docmentun,,USD,ANNUAL,202.68,0,
+Oracle,,,oracle_ent_proc,,USD,ANNUAL,7581,0,
+Oracle,,,oracle_ent_proc_diag_tuning,,USD,ANNUAL,9576,0,
+Oracle,,,oracle_ent_standby,,USD,ANNUAL,9416,0,
+Oracle,,,oracle_ent_standby_diag_tuning,,USD,ANNUAL,11411,0,
+Oracle,,,oracle_ent_standby_goldengate,,USD,ANNUAL,12209,0,
+Oracle,,,oracle_std_proc,,USD,ANNUAL,698.25,0,
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,US EAST 2
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,US CENTRAL
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,EU WEST
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,EU NORTH
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,CN EAST 2
+Azure,,RACS standard users,racs_standard_user,,USD,ANNUAL,0,0,CN NORTH 2
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,US EAST 2
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,US CENTRAL
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,EU WEST
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,EU NORTH
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,CN EAST 2
+Azure,,RACS super users,racs_super_user,,USD,ANNUAL,18.6813,0,CN NORTH 2
+Azure,,Power BI Pro,azure_powerbi_pro,,USD,ANNUAL,119.88,0,US EAST 2
+Azure,,Power BI Pro,azure_powerbi_pro,,USD,ANNUAL,119.88,0,US CENTRAL
+Azure,,Power BI Pro,azure_powerbi_pro,,USD,ANNUAL,119.88,0,EU WEST
+Azure,,Power BI Pro,azure_powerbi_pro,,USD,ANNUAL,119.88,0,EU NORTH
+Azure,,Power BI Pro,azure_powerbi_pro,,CNY,ANNUAL,739.92,0,CN EAST 2
+Azure,,Power BI Pro,azure_powerbi_pro,,CNY,ANNUAL,739.92,0,CN NORTH 2
+Azure,,Power BI Premium,azure_powerbi_pro,,USD,ANNUAL,240,0,US EAST 2
+Azure,,Power BI Premium,azure_powerbi_pro,,USD,ANNUAL,240,0,US CENTRAL
+Azure,,Power BI Premium,azure_powerbi_pro,,USD,ANNUAL,240,0,EU WEST
+Azure,,Power BI Premium,azure_powerbi_pro,,USD,ANNUAL,240,0,EU NORTH
+Azure,,Power BI Premium,azure_powerbi_pro,,CNY,ANNUAL,1479.96,0,CN EAST 2
+Azure,,Power BI Premium,azure_powerbi_pro,,CNY,ANNUAL,1479.96,0,CN NORTH 2
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,US EAST 2
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,US CENTRAL
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,EU WEST
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,EU NORTH
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,CN EAST 2
+Azure,,Azure Data Factory,azure_data_factory,,USD,ANNUAL,5400,0,CN NORTH 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,US EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,US CENTRAL
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,EU WEST
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,EU NORTH
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,CN EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,0,CN NORTH 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,US EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,US CENTRAL
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,EU WEST
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,EU NORTH
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,CN EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1920,1,CN NORTH 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,US EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,US CENTRAL
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,EU WEST
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,EU NORTH
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,CN EAST 2
+Azure,,Azure SQL Database Compute (vCores),azure_sql_vcore,,USD,ANNUAL,1596,3,CN NORTH 2
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,US EAST 2
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,US CENTRAL
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,EU WEST
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,EU NORTH
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,CN EAST 2
+Azure,,Azure SQL Database Storage (GB),azure_sql_storage_gb,,USD,ANNUAL,1.38,0,CN NORTH 2
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,US EAST 2
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,US CENTRAL
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,EU WEST
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,EU NORTH
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,CN EAST 2
+Azure,,Annual storage cost per GB,azure_storage_gb,,USD,ANNUAL,0.72,0,CN NORTH 2
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,US EAST 2
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,US CENTRAL
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,EU WEST
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,EU NORTH
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,CN EAST 2
+Azure,,Annual storage cost per GB,azure_backup_storage_gb,,USD,ANNUAL,2.914895039,0,CN NORTH 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,US EAST 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,US CENTRAL
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,EU WEST
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,EU NORTH
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,CN EAST 2
+Azure,,10K SMB & REST Operations - Put/Create/List,azure_rest_pcl,,USD,ANNUAL,0.18,0,CN NORTH 2
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,US EAST 2
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,US CENTRAL
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,EU WEST
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,EU NORTH
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,CN EAST 2
+Azure,,10K SMB & REST Operations - Others,azure_rest_other,,USD,ANNUAL,0.018,0,CN NORTH 2
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,US EAST 2
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,US CENTRAL
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,EU WEST
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,EU NORTH
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,CN EAST 2
+Azure,,10K Azure Defender for Storage Transactions,azure_defender,,USD,ANNUAL,0.24,0,CN NORTH 2
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,US EAST 2
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,US CENTRAL
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,EU WEST
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,EU NORTH
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,CN EAST 2
+Azure,,Outbound Data Transfer - 5 - 10 TB - per GB,azure_out_data_gb,,USD,ANNUAL,1.044,0,CN NORTH 2
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,US EAST 2
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,US CENTRAL
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,EU WEST
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,EU NORTH
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,CN EAST 2
+Azure,,Annual shared service per VM,azure_shared_service,,USD,ANNUAL,951.09,0,CN NORTH 2
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,US EAST 2
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,US CENTRAL
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,EU WEST
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,EU NORTH
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,CN EAST 2
+Azure,,Annual shared AAD per client,azure_shared_ad,,USD,ANNUAL,10,0,CN NORTH 2
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,US EAST 2
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,US CENTRAL
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,EU WEST
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,EU NORTH
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,CN EAST 2
+Azure,,Annual site recovery per VM,azure_asr_agent,,USD,ANNUAL,25,0,CN NORTH 2
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,US EAST 2
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,US CENTRAL
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,EU WEST
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,EU NORTH
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,CN EAST 2
+Azure,,Annual shared keyvault,azure_kv,,USD,ANNUAL,68.8,0,CN NORTH 2
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,US EAST 2
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,US CENTRAL
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,EU WEST
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,EU NORTH
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,CN EAST 2
+Azure,,Annual WAF/DDoS service per GB,azure_waf_ddos_gb,,USD,ANNUAL,20.88,0,CN NORTH 2
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,US EAST 2
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,US CENTRAL
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,EU WEST
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,EU NORTH
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,CN EAST 2
+Azure,,Azure Network Internet EGRESS (OUT),azure_inet_egress_gb,,USD,ANNUAL,1.0314,0,CN NORTH 2
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,US EAST 2
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,US CENTRAL
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,EU WEST
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,EU NORTH
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,CN EAST 2
+Azure,,Azure Network Express Route EGRESS (OUT),azure_er_egress_gb,,USD,ANNUAL,0.05351,0,CN NORTH 2
+inetSoft,,SR EE 5 Named User License Prodution,sr_5nul_prod,,USD,ANNUAL,2100,0,
+inetSoft,,SR EE 5 Named User License Non Production ,sr_5nul_nonprod,,USD,ANNUAL,210,0,
+inetSoft,,SR EE 5 Concurrent User License Production ,sr_5cul_prod,,USD,ANNUAL,8400,0,
+inetSoft,,SR EE 5 Concurrent User License Non-Production ,sr_5cul_nonprod,,USD,ANNUAL,840,0,
+inetSoft,,SR EE Core (4vCore) Production,sr_4vcore_prod,,USD,ANNUAL,16000,0,
+inetSoft,,SR EE Core (4vCore) Non-Production,sr_4vcore_nonprod,,USD,ANNUAL,1600,0,
+inetSoft,,SR 1 Named User Developer,sr_1nul_dev,,USD,ANNUAL,800,0,

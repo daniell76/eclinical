@@ -1,0 +1,1461 @@
+vendor,service_name,description,sku,os_type,currency,billing_type,unit_price,reservation_term,azure_region
+Azure,Virtual Machines,Virtual Machines A Series - A0 - EU North,A0,LINUX,USD,ANNUAL,166.44,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A0 - EU West,A0,LINUX,USD,ANNUAL,166.44,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A0 - US Central,A0,LINUX,USD,ANNUAL,166.44,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A0 - US East 2,A0,LINUX,USD,ANNUAL,166.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A1 - EU North,A1,LINUX,USD,ANNUAL,499.32,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A1 - EU West,A1,LINUX,USD,ANNUAL,499.32,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A1 - US Central,A1,LINUX,USD,ANNUAL,499.32,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A1 - US East 2,A1,LINUX,USD,ANNUAL,499.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A10 - EU North,A10,LINUX,USD,ANNUAL,6491.16,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A10 - EU West,A10,LINUX,USD,ANNUAL,7463.52,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A11 - EU North,A11,LINUX,USD,ANNUAL,12982.32,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A11 - EU West,A11,LINUX,USD,ANNUAL,14927.04,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A2 - EU North,A2,LINUX,USD,ANNUAL,998.64,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A2 - EU West,A2,LINUX,USD,ANNUAL,998.64,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A2 - US Central,A2,LINUX,USD,ANNUAL,998.64,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A2 - US East 2,A2,LINUX,USD,ANNUAL,998.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A3 - EU North,A3,LINUX,USD,ANNUAL,1997.28,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A3 - EU West,A3,LINUX,USD,ANNUAL,1997.28,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A3 - US Central,A3,LINUX,USD,ANNUAL,1997.28,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A3 - US East 2,A3,LINUX,USD,ANNUAL,1997.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A4 - EU North,A4,LINUX,USD,ANNUAL,3994.56,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A4 - EU West,A4,LINUX,USD,ANNUAL,3994.56,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A4 - US Central,A4,LINUX,USD,ANNUAL,3994.56,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A4 - US East 2,A4,LINUX,USD,ANNUAL,3994.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A5 - EU North,A5,LINUX,USD,ANNUAL,2063.86,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A5 - EU West,A5,LINUX,USD,ANNUAL,2246.94,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A5 - US Central,A5,LINUX,USD,ANNUAL,2080.50,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A5 - US East 2,A5,LINUX,USD,ANNUAL,1830.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A6 - EU North,A6,LINUX,USD,ANNUAL,4127.71,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A6 - EU West,A6,LINUX,USD,ANNUAL,4493.88,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A6 - US Central,A6,LINUX,USD,ANNUAL,4161.00,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A6 - US East 2,A6,LINUX,USD,ANNUAL,3661.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A7 - EU North,A7,LINUX,USD,ANNUAL,8255.42,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A7 - EU West,A7,LINUX,USD,ANNUAL,8987.76,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A7 - US Central,A7,LINUX,USD,ANNUAL,8322.00,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series - A7 - US East 2,A7,LINUX,USD,ANNUAL,7323.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series - A8 - EU North,A8,LINUX,USD,ANNUAL,8111.76,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A8 - EU West,A8,LINUX,USD,ANNUAL,9329.40,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series - A9 - EU North,A9,LINUX,USD,ANNUAL,16232.28,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series - A9 - EU West,A9,LINUX,USD,ANNUAL,18667.56,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A0 - EU North,A0,LINUX,USD,ANNUAL,149.80,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic - A0 - EU West,A0,LINUX,USD,ANNUAL,149.80,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A0 - US Central,A0,LINUX,USD,ANNUAL,149.80,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic - A0 - US East 2,A0,LINUX,USD,ANNUAL,149.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic - A1 - EU North,A1,LINUX,USD,ANNUAL,208.49,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic - A1 - EU West,A1,LINUX,USD,ANNUAL,225.13,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A1 - US Central,A1,LINUX,USD,ANNUAL,208.49,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic - A1 - US East 2,A1,LINUX,USD,ANNUAL,199.73,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic - A2 - EU North,A2,LINUX,USD,ANNUAL,624.59,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic - A2 - EU West,A2,LINUX,USD,ANNUAL,649.12,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A2 - US Central,A2,LINUX,USD,ANNUAL,707.81,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic - A2 - US East 2,A2,LINUX,USD,ANNUAL,565.90,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic - A3 - EU North,A3,LINUX,USD,ANNUAL,1564.54,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic - A3 - EU West,A3,LINUX,USD,ANNUAL,1697.69,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A3 - US Central,A3,LINUX,USD,ANNUAL,1564.54,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic - A3 - US East 2,A3,LINUX,USD,ANNUAL,1464.67,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic - A4 - EU North,A4,LINUX,USD,ANNUAL,3129.07,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic - A4 - EU West,A4,LINUX,USD,ANNUAL,3395.38,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic - A4 - US Central,A4,LINUX,USD,ANNUAL,3129.07,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic - A4 - US East 2,A4,LINUX,USD,ANNUAL,2929.34,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A0 - EU North,A0,WINDOWS,USD,ANNUAL,149.80,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A0 - EU West,A0,WINDOWS,USD,ANNUAL,149.80,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A0 - US Central,A0,WINDOWS,USD,ANNUAL,149.80,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A0 - US East 2,A0,WINDOWS,USD,ANNUAL,149.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A1 - EU North,A1,WINDOWS,USD,ANNUAL,282.95,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A1 - EU West,A1,WINDOWS,USD,ANNUAL,299.59,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A1 - US Central,A1,WINDOWS,USD,ANNUAL,291.71,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A1 - US East 2,A1,WINDOWS,USD,ANNUAL,291.71,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A2 - EU North,A2,WINDOWS,USD,ANNUAL,940.82,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A2 - EU West,A2,WINDOWS,USD,ANNUAL,1007.40,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A2 - US Central,A2,WINDOWS,USD,ANNUAL,1157.20,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A2 - US East 2,A2,WINDOWS,USD,ANNUAL,915.42,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A3 - EU North,A3,WINDOWS,USD,ANNUAL,2496.60,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A3 - EU West,A3,WINDOWS,USD,ANNUAL,2696.33,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A3 - US Central,A3,WINDOWS,USD,ANNUAL,2563.18,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A3 - US East 2,A3,WINDOWS,USD,ANNUAL,2463.31,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A4 - EU North,A4,WINDOWS,USD,ANNUAL,4993.20,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A4 - EU West,A4,WINDOWS,USD,ANNUAL,5392.66,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A4 - US Central,A4,WINDOWS,USD,ANNUAL,5126.35,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Basic Windows - A4 - US East 2,A4,WINDOWS,USD,ANNUAL,4926.62,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A0 - EU North,A0,WINDOWS,USD,ANNUAL,166.44,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A0 - EU West,A0,WINDOWS,USD,ANNUAL,166.44,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A0 - US Central,A0,WINDOWS,USD,ANNUAL,166.44,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A0 - US East 2,A0,WINDOWS,USD,ANNUAL,166.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A1 - EU North,A1,WINDOWS,USD,ANNUAL,748.98,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A1 - EU West,A1,WINDOWS,USD,ANNUAL,748.98,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A1 - US Central,A1,WINDOWS,USD,ANNUAL,748.98,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A1 - US East 2,A1,WINDOWS,USD,ANNUAL,748.98,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A10 - EU North,A10,WINDOWS,USD,ANNUAL,8987.76,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A10 - EU West,A10,WINDOWS,USD,ANNUAL,10336.80,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A11 - EU North,A11,WINDOWS,USD,ANNUAL,17975.52,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A11 - EU West,A11,WINDOWS,USD,ANNUAL,20673.60,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A2 - EU North,A2,WINDOWS,USD,ANNUAL,1497.96,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A2 - EU West,A2,WINDOWS,USD,ANNUAL,1497.96,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A2 - US Central,A2,WINDOWS,USD,ANNUAL,1497.96,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A2 - US East 2,A2,WINDOWS,USD,ANNUAL,1497.96,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A3 - EU North,A3,WINDOWS,USD,ANNUAL,2995.92,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A3 - EU West,A3,WINDOWS,USD,ANNUAL,2995.92,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A3 - US Central,A3,WINDOWS,USD,ANNUAL,2995.92,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A3 - US East 2,A3,WINDOWS,USD,ANNUAL,2995.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A4 - EU North,A4,WINDOWS,USD,ANNUAL,5991.84,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A4 - EU West,A4,WINDOWS,USD,ANNUAL,5991.84,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A4 - US Central,A4,WINDOWS,USD,ANNUAL,5991.84,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A4 - US East 2,A4,WINDOWS,USD,ANNUAL,5991.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A5 - EU North,A5,WINDOWS,USD,ANNUAL,2496.60,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A5 - EU West,A5,WINDOWS,USD,ANNUAL,2829.48,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A5 - US Central,A5,WINDOWS,USD,ANNUAL,2746.26,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A5 - US East 2,A5,WINDOWS,USD,ANNUAL,2496.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A6 - EU North,A6,WINDOWS,USD,ANNUAL,4993.20,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A6 - EU West,A6,WINDOWS,USD,ANNUAL,5658.96,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A6 - US Central,A6,WINDOWS,USD,ANNUAL,5492.52,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A6 - US East 2,A6,WINDOWS,USD,ANNUAL,4993.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A7 - EU North,A7,WINDOWS,USD,ANNUAL,9986.40,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A7 - EU West,A7,WINDOWS,USD,ANNUAL,11317.92,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A7 - US Central,A7,WINDOWS,USD,ANNUAL,10985.04,0,US Central
+Azure,Virtual Machines,Virtual Machines A Series Windows - A7 - US East 2,A7,WINDOWS,USD,ANNUAL,9986.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines A Series Windows - A8 - EU North,A8,WINDOWS,USD,ANNUAL,11239.08,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A8 - EU West,A8,WINDOWS,USD,ANNUAL,12921.00,0,EU West
+Azure,Virtual Machines,Virtual Machines A Series Windows - A9 - EU North,A9,WINDOWS,USD,ANNUAL,22469.40,0,EU North
+Azure,Virtual Machines,Virtual Machines A Series Windows - A9 - EU West,A9,WINDOWS,USD,ANNUAL,25842.00,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A1 v2 - EU North,A1_V2,LINUX,USD,ANNUAL,341.64,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A1 v2 - EU West,A1_V2,LINUX,USD,ANNUAL,341.64,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A1 v2 - US Central,A1_V2,LINUX,USD,ANNUAL,358.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A1 v2 - US East 2,A1_V2,LINUX,USD,ANNUAL,358.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2 v2 - EU North,A2_V2,LINUX,USD,ANNUAL,724.45,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2 v2 - EU West,A2_V2,LINUX,USD,ANNUAL,724.45,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2 v2 - US Central,A2_V2,LINUX,USD,ANNUAL,757.74,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2 v2 - US East 2,A2_V2,LINUX,USD,ANNUAL,757.74,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2m v2 - EU North,A2M_V2,LINUX,USD,ANNUAL,1157.20,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2m v2 - EU West,A2M_V2,LINUX,USD,ANNUAL,1031.93,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2m v2 - US Central,A2M_V2,LINUX,USD,ANNUAL,1073.98,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A2m v2 - US East 2,A2M_V2,LINUX,USD,ANNUAL,990.76,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4 v2 - EU North,A4_V2,LINUX,USD,ANNUAL,1523.36,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4 v2 - EU West,A4_V2,LINUX,USD,ANNUAL,1523.36,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4 v2 - US Central,A4_V2,LINUX,USD,ANNUAL,1589.94,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4 v2 - US East 2,A4_V2,LINUX,USD,ANNUAL,1589.94,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4m v2 - EU North,A4M_V2,LINUX,USD,ANNUAL,2422.14,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4m v2 - EU West,A4M_V2,LINUX,USD,ANNUAL,2163.72,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4m v2 - US Central,A4M_V2,LINUX,USD,ANNUAL,2246.94,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A4m v2 - US East 2,A4M_V2,LINUX,USD,ANNUAL,2072.62,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8 v2 - EU North,A8_V2,LINUX,USD,ANNUAL,3187.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8 v2 - EU West,A8_V2,LINUX,USD,ANNUAL,3187.76,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8 v2 - US Central,A8_V2,LINUX,USD,ANNUAL,3328.80,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8 v2 - US East 2,A8_V2,LINUX,USD,ANNUAL,3328.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8m v2 - EU North,A8M_V2,LINUX,USD,ANNUAL,5085.18,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8m v2 - EU West,A8M_V2,LINUX,USD,ANNUAL,4543.81,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8m v2 - US Central,A8M_V2,LINUX,USD,ANNUAL,4726.90,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series - A8m v2 - US East 2,A8M_V2,LINUX,USD,ANNUAL,4360.73,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A1 v2 - EU North,A1_V2,WINDOWS,USD,ANNUAL,515.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A1 v2 - EU West,A1_V2,WINDOWS,USD,ANNUAL,515.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A1 v2 - US Central,A1_V2,WINDOWS,USD,ANNUAL,541.37,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A1 v2 - US East 2,A1_V2,WINDOWS,USD,ANNUAL,541.37,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2 v2 - EU North,A2_V2,WINDOWS,USD,ANNUAL,1081.86,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2 v2 - EU West,A2_V2,WINDOWS,USD,ANNUAL,1081.86,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2 v2 - US Central,A2_V2,WINDOWS,USD,ANNUAL,1131.79,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2 v2 - US East 2,A2_V2,WINDOWS,USD,ANNUAL,1131.79,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2m v2 - EU North,A2M_V2,WINDOWS,USD,ANNUAL,1747.62,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2m v2 - EU West,A2M_V2,WINDOWS,USD,ANNUAL,1564.54,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2m v2 - US Central,A2M_V2,WINDOWS,USD,ANNUAL,1623.23,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A2m v2 - US East 2,A2M_V2,WINDOWS,USD,ANNUAL,1497.96,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4 v2 - EU North,A4_V2,WINDOWS,USD,ANNUAL,2280.23,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4 v2 - EU West,A4_V2,WINDOWS,USD,ANNUAL,2280.23,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4 v2 - US Central,A4_V2,WINDOWS,USD,ANNUAL,2380.09,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4 v2 - US East 2,A4_V2,WINDOWS,USD,ANNUAL,2380.09,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4m v2 - EU North,A4M_V2,WINDOWS,USD,ANNUAL,3670.44,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4m v2 - EU West,A4M_V2,WINDOWS,USD,ANNUAL,3278.87,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4m v2 - US Central,A4M_V2,WINDOWS,USD,ANNUAL,3412.02,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A4m v2 - US East 2,A4M_V2,WINDOWS,USD,ANNUAL,3145.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8 v2 - EU North,A8_V2,WINDOWS,USD,ANNUAL,4785.59,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8 v2 - EU West,A8_V2,WINDOWS,USD,ANNUAL,4785.59,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8 v2 - US Central,A8_V2,WINDOWS,USD,ANNUAL,4993.20,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8 v2 - US East 2,A8_V2,WINDOWS,USD,ANNUAL,4993.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8m v2 - EU North,A8M_V2,WINDOWS,USD,ANNUAL,7706.17,0,EU North
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8m v2 - EU West,A8M_V2,WINDOWS,USD,ANNUAL,6882.73,0,EU West
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8m v2 - US Central,A8M_V2,WINDOWS,USD,ANNUAL,7156.92,0,US Central
+Azure,Virtual Machines,Virtual Machines Av2 Series Windows - A8m v2 - US East 2,A8M_V2,WINDOWS,USD,ANNUAL,6607.67,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B12ms - EU North,B12MS,LINUX,USD,ANNUAL,4546.44,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B12ms - EU West,B12MS,LINUX,USD,ANNUAL,4791.72,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B12ms - US Central,B12MS,LINUX,USD,ANNUAL,4984.44,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B12ms - US East 2,B12MS,LINUX,USD,ANNUAL,4152.24,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B16ms - EU North,B16MS,LINUX,USD,ANNUAL,6061.92,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B16ms - EU West,B16MS,LINUX,USD,ANNUAL,6394.80,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B16ms - US Central,B16MS,LINUX,USD,ANNUAL,6648.84,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B16ms - US East 2,B16MS,LINUX,USD,ANNUAL,5545.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B1ls - EU North,B1LS,LINUX,USD,ANNUAL,47.48,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B1ls - EU West,B1LS,LINUX,USD,ANNUAL,49.93,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B1ls - US Central,B1LS,LINUX,USD,ANNUAL,51.95,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B1ls - US East 2,B1LS,LINUX,USD,ANNUAL,43.27,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B1ms - EU North,B1MS,LINUX,USD,ANNUAL,189.22,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B1ms - EU West,B1MS,LINUX,USD,ANNUAL,199.73,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B1ms - US Central,B1MS,LINUX,USD,ANNUAL,208.49,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B1ms - US East 2,B1MS,LINUX,USD,ANNUAL,173.45,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B1s - EU North,B1S,LINUX,USD,ANNUAL,94.08,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B1s - EU West,B1S,LINUX,USD,ANNUAL,99.86,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B1s - US Central,B1S,LINUX,USD,ANNUAL,104.07,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B1s - US East 2,B1S,LINUX,USD,ANNUAL,86.55,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B20ms - EU North,B20MS,LINUX,USD,ANNUAL,7568.64,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B20ms - EU West,B20MS,LINUX,USD,ANNUAL,7989.12,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B20ms - US Central,B20MS,LINUX,USD,ANNUAL,8304.48,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B20ms - US East 2,B20MS,LINUX,USD,ANNUAL,6920.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B2ms - EU North,B2MS,LINUX,USD,ANNUAL,757.74,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B2ms - EU West,B2MS,LINUX,USD,ANNUAL,798.91,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B2ms - US Central,B2MS,LINUX,USD,ANNUAL,830.45,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B2ms - US East 2,B2MS,LINUX,USD,ANNUAL,692.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B2s - EU North,B2S,LINUX,USD,ANNUAL,374.93,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B2s - EU West,B2S,LINUX,USD,ANNUAL,399.46,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B2s - US Central,B2S,LINUX,USD,ANNUAL,415.22,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B2s - US East 2,B2S,LINUX,USD,ANNUAL,346.02,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B4ms - EU North,B4MS,LINUX,USD,ANNUAL,1515.48,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B4ms - EU West,B4MS,LINUX,USD,ANNUAL,1594.32,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B4ms - US Central,B4MS,LINUX,USD,ANNUAL,1664.40,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B4ms - US East 2,B4MS,LINUX,USD,ANNUAL,1384.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series - B8ms - EU North,B8MS,LINUX,USD,ANNUAL,3030.96,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series - B8ms - EU West,B8MS,LINUX,USD,ANNUAL,3197.40,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series - B8ms - US Central,B8MS,LINUX,USD,ANNUAL,3320.04,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series - B8ms - US East 2,B8MS,LINUX,USD,ANNUAL,2768.16,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B12ms - EU North,B12MS,WINDOWS,USD,ANNUAL,4940.64,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B12ms - EU West,B12MS,WINDOWS,USD,ANNUAL,5194.68,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B12ms - US Central,B12MS,WINDOWS,USD,ANNUAL,5387.40,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B12ms - US East 2,B12MS,WINDOWS,USD,ANNUAL,4555.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B16ms - EU North,B16MS,WINDOWS,USD,ANNUAL,6587.52,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B16ms - EU West,B16MS,WINDOWS,USD,ANNUAL,6920.40,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B16ms - US Central,B16MS,WINDOWS,USD,ANNUAL,7183.20,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B16ms - US East 2,B16MS,WINDOWS,USD,ANNUAL,6079.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ls - EU North,B1LS,WINDOWS,USD,ANNUAL,67.45,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ls - EU West,B1LS,WINDOWS,USD,ANNUAL,88.21,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ls - US Central,B1LS,WINDOWS,USD,ANNUAL,89.88,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ls - US East 2,B1LS,WINDOWS,USD,ANNUAL,81.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ms - EU North,B1MS,WINDOWS,USD,ANNUAL,218.12,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ms - EU West,B1MS,WINDOWS,USD,ANNUAL,230.39,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ms - US Central,B1MS,WINDOWS,USD,ANNUAL,241.78,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1ms - US East 2,B1MS,WINDOWS,USD,ANNUAL,204.98,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1s - EU North,B1S,WINDOWS,USD,ANNUAL,127.37,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1s - EU West,B1S,WINDOWS,USD,ANNUAL,133.15,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1s - US Central,B1S,WINDOWS,USD,ANNUAL,137.36,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B1s - US East 2,B1S,WINDOWS,USD,ANNUAL,116.51,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B20ms - EU North,B20MS,WINDOWS,USD,ANNUAL,8234.40,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B20ms - EU West,B20MS,WINDOWS,USD,ANNUAL,8654.88,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B20ms - US Central,B20MS,WINDOWS,USD,ANNUAL,8970.24,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B20ms - US East 2,B20MS,WINDOWS,USD,ANNUAL,7586.16,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2ms - EU North,B2MS,WINDOWS,USD,ANNUAL,825.19,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2ms - EU West,B2MS,WINDOWS,USD,ANNUAL,865.49,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2ms - US Central,B2MS,WINDOWS,USD,ANNUAL,898.78,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2ms - US East 2,B2MS,WINDOWS,USD,ANNUAL,758.62,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2s - EU North,B2S,WINDOWS,USD,ANNUAL,445.88,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2s - EU West,B2S,WINDOWS,USD,ANNUAL,466.03,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2s - US Central,B2S,WINDOWS,USD,ANNUAL,481.80,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B2s - US East 2,B2S,WINDOWS,USD,ANNUAL,412.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B4ms - EU North,B4MS,WINDOWS,USD,ANNUAL,1646.88,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B4ms - EU West,B4MS,WINDOWS,USD,ANNUAL,1734.48,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B4ms - US Central,B4MS,WINDOWS,USD,ANNUAL,1795.80,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B4ms - US East 2,B4MS,WINDOWS,USD,ANNUAL,1515.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B8ms - EU North,B8MS,WINDOWS,USD,ANNUAL,3302.52,0,EU North
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B8ms - EU West,B8MS,WINDOWS,USD,ANNUAL,3460.20,0,EU West
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B8ms - US Central,B8MS,WINDOWS,USD,ANNUAL,3582.84,0,US Central
+Azure,Virtual Machines,Virtual Machines BS Series Windows - B8ms - US East 2,B8MS,WINDOWS,USD,ANNUAL,3039.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B2msh - EU North,B2MSH,LINUX,USD,ANNUAL,341.20,0,EU North
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B2msh - EU West,B2MSH,LINUX,USD,ANNUAL,359.51,0,EU West
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B2msh - US Central,B2MSH,LINUX,USD,ANNUAL,373.70,0,US Central
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B2msh - US East 2,B2MSH,LINUX,USD,ANNUAL,311.24,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B4msh - EU North,B4MSH,LINUX,USD,ANNUAL,682.40,0,EU North
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B4msh - EU West,B4MSH,LINUX,USD,ANNUAL,717.36,0,EU West
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B4msh - US Central,B4MSH,LINUX,USD,ANNUAL,745.65,0,US Central
+Azure,Virtual Machines,Virtual Machines BS VDI Series - B4msh - US East 2,B4MSH,LINUX,USD,ANNUAL,621.70,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B2msh - EU North,B2MSH,WINDOWS,USD,ANNUAL,371.16,0,EU North
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B2msh - EU West,B2MSH,WINDOWS,USD,ANNUAL,389.47,0,EU West
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B2msh - US Central,B2MSH,WINDOWS,USD,ANNUAL,404.45,0,US Central
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B2msh - US East 2,B2MSH,WINDOWS,USD,ANNUAL,341.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B4msh - EU North,B4MSH,WINDOWS,USD,ANNUAL,741.10,0,EU North
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B4msh - EU West,B4MSH,WINDOWS,USD,ANNUAL,786.47,0,EU West
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B4msh - US Central,B4MSH,WINDOWS,USD,ANNUAL,817.22,0,US Central
+Azure,Virtual Machines,Virtual Machines BS VDI Series Windows - B4msh - US East 2,B4MSH,WINDOWS,USD,ANNUAL,681.62,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F16s v2 - EU North,F16S_V2,LINUX,USD,ANNUAL,6394.80,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F16s v2 - EU West,F16S_V2,LINUX,USD,ANNUAL,6456.12,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F16s v2 - US Central,F16S_V2,LINUX,USD,ANNUAL,6790.75,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F16s v2 - US East 2,F16S_V2,LINUX,USD,ANNUAL,5632.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F2s v2 - EU North,F2S_V2,LINUX,USD,ANNUAL,798.91,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F2s v2 - EU West,F2S_V2,LINUX,USD,ANNUAL,807.67,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F2s v2 - US Central,F2S_V2,LINUX,USD,ANNUAL,849.72,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F2s v2 - US East 2,F2S_V2,LINUX,USD,ANNUAL,704.30,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F32s v2 - EU North,F32S_V2,LINUX,USD,ANNUAL,12780.84,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F32s v2 - EU West,F32S_V2,LINUX,USD,ANNUAL,12912.24,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F32s v2 - US Central,F32S_V2,LINUX,USD,ANNUAL,13578.00,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F32s v2 - US East 2,F32S_V2,LINUX,USD,ANNUAL,11256.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F48s v2 - EU North,F48S_V2,LINUX,USD,ANNUAL,19175.64,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F48s v2 - EU West,F48S_V2,LINUX,USD,ANNUAL,19377.12,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F48s v2 - US Central,F48S_V2,LINUX,USD,ANNUAL,20375.76,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F48s v2 - US East 2,F48S_V2,LINUX,USD,ANNUAL,16898.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F4s v2 - EU North,F4S_V2,LINUX,USD,ANNUAL,1594.32,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F4s v2 - EU West,F4S_V2,LINUX,USD,ANNUAL,1611.84,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F4s v2 - US Central,F4S_V2,LINUX,USD,ANNUAL,1697.69,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F4s v2 - US East 2,F4S_V2,LINUX,USD,ANNUAL,1406.86,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F64s v2 - EU North,F64S_V2,LINUX,USD,ANNUAL,25579.20,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F64s v2 - EU West,F64S_V2,LINUX,USD,ANNUAL,25842.00,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F64s v2 - US Central,F64S_V2,LINUX,USD,ANNUAL,27156.00,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F64s v2 - US East 2,F64S_V2,LINUX,USD,ANNUAL,22513.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F72s v2 - EU North,F72S_V2,LINUX,USD,ANNUAL,28732.80,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F72s v2 - EU West,F72S_V2,LINUX,USD,ANNUAL,29083.20,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F72s v2 - US Central,F72S_V2,LINUX,USD,ANNUAL,30572.40,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F72s v2 - US East 2,F72S_V2,LINUX,USD,ANNUAL,25316.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F8s v2 - EU North,F8S_V2,LINUX,USD,ANNUAL,3195.65,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F8s v2 - EU West,F8S_V2,LINUX,USD,ANNUAL,3232.44,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F8s v2 - US Central,F8S_V2,LINUX,USD,ANNUAL,3395.38,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series - F8s v2 - US East 2,F8S_V2,LINUX,USD,ANNUAL,2811.96,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F16s v2 - EU North,F16S_V2,WINDOWS,USD,ANNUAL,12518.04,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F16s v2 - EU West,F16S_V2,WINDOWS,USD,ANNUAL,12325.32,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F16s v2 - US Central,F16S_V2,WINDOWS,USD,ANNUAL,12912.24,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F16s v2 - US East 2,F16S_V2,WINDOWS,USD,ANNUAL,10836.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F2s v2 - EU North,F2S_V2,WINDOWS,USD,ANNUAL,1564.54,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F2s v2 - EU West,F2S_V2,WINDOWS,USD,ANNUAL,1540.01,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F2s v2 - US Central,F2S_V2,WINDOWS,USD,ANNUAL,1611.84,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F2s v2 - US East 2,F2S_V2,WINDOWS,USD,ANNUAL,1356.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F32s v2 - EU North,F32S_V2,WINDOWS,USD,ANNUAL,24966.00,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F32s v2 - EU West,F32S_V2,WINDOWS,USD,ANNUAL,24641.88,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F32s v2 - US Central,F32S_V2,WINDOWS,USD,ANNUAL,25842.00,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F32s v2 - US East 2,F32S_V2,WINDOWS,USD,ANNUAL,21672.24,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F48s v2 - EU North,F48S_V2,WINDOWS,USD,ANNUAL,37492.80,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F48s v2 - EU West,F48S_V2,WINDOWS,USD,ANNUAL,37668.00,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F48s v2 - US Central,F48S_V2,WINDOWS,USD,ANNUAL,38719.20,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F48s v2 - US East 2,F48S_V2,WINDOWS,USD,ANNUAL,35302.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F4s v2 - EU North,F4S_V2,WINDOWS,USD,ANNUAL,3127.32,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F4s v2 - EU West,F4S_V2,WINDOWS,USD,ANNUAL,3083.52,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F4s v2 - US Central,F4S_V2,WINDOWS,USD,ANNUAL,3232.44,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F4s v2 - US East 2,F4S_V2,WINDOWS,USD,ANNUAL,2712.97,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F64s v2 - EU North,F64S_V2,WINDOWS,USD,ANNUAL,50063.40,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F64s v2 - EU West,F64S_V2,WINDOWS,USD,ANNUAL,49231.20,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F64s v2 - US Central,F64S_V2,WINDOWS,USD,ANNUAL,51666.48,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F64s v2 - US East 2,F64S_V2,WINDOWS,USD,ANNUAL,43274.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F72s v2 - EU North,F72S_V2,WINDOWS,USD,ANNUAL,56326.80,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F72s v2 - EU West,F72S_V2,WINDOWS,USD,ANNUAL,55450.80,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F72s v2 - US Central,F72S_V2,WINDOWS,USD,ANNUAL,58078.80,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F72s v2 - US East 2,F72S_V2,WINDOWS,USD,ANNUAL,48793.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F8s v2 - EU North,F8S_V2,WINDOWS,USD,ANNUAL,6254.64,0,EU North
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F8s v2 - EU West,F8S_V2,WINDOWS,USD,ANNUAL,6158.28,0,EU West
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F8s v2 - US Central,F8S_V2,WINDOWS,USD,ANNUAL,6456.12,0,US Central
+Azure,Virtual Machines,Virtual Machines FSv2 Series Windows - F8s v2 - US East 2,F8S_V2,WINDOWS,USD,ANNUAL,5413.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16 - EU North,H16,LINUX,USD,ANNUAL,9636.00,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16 - EU West,H16,LINUX,USD,ANNUAL,10336.80,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16m - EU North,H16M,LINUX,USD,ANNUAL,12964.80,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16m - EU West,H16M,LINUX,USD,ANNUAL,13840.80,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16mr - EU North,H16MR,LINUX,USD,ANNUAL,14191.20,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16mr - EU West,H16MR,LINUX,USD,ANNUAL,14016.00,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16r - EU North,H16R,LINUX,USD,ANNUAL,10687.20,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H16r - EU West,H16R,LINUX,USD,ANNUAL,11300.40,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series - H8 - EU North,H8,LINUX,USD,ANNUAL,4844.28,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H8 - EU West,H8,LINUX,USD,ANNUAL,5159.64,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series - H8m - EU North,H8M,LINUX,USD,ANNUAL,6491.16,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series - H8m - EU West,H8M,LINUX,USD,ANNUAL,6911.64,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16 - EU North,H16,WINDOWS,USD,ANNUAL,15855.60,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16 - EU West,H16,WINDOWS,USD,ANNUAL,16381.20,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16m - EU North,H16M,WINDOWS,USD,ANNUAL,19096.80,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16m - EU West,H16M,WINDOWS,USD,ANNUAL,19885.20,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16mr - EU North,H16MR,WINDOWS,USD,ANNUAL,20410.80,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16mr - EU West,H16MR,WINDOWS,USD,ANNUAL,20148.00,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16r - EU North,H16R,WINDOWS,USD,ANNUAL,16731.60,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H16r - EU West,H16R,WINDOWS,USD,ANNUAL,17520.00,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H8 - EU North,H8,WINDOWS,USD,ANNUAL,7910.28,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H8 - EU West,H8,WINDOWS,USD,ANNUAL,8225.64,0,EU West
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H8m - EU North,H8M,WINDOWS,USD,ANNUAL,9460.80,0,EU North
+Azure,Virtual Machines,Virtual Machines H Promo Series Windows - H8m - EU West,H8M,WINDOWS,USD,ANNUAL,9898.80,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H16 - EU North,H16,LINUX,USD,ANNUAL,16153.44,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H16 - EU West,H16,LINUX,USD,ANNUAL,17187.12,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H16m - EU North,H16M,LINUX,USD,ANNUAL,21645.96,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H16m - EU West,H16M,LINUX,USD,ANNUAL,23030.04,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H16mr - EU North,H16MR,LINUX,USD,ANNUAL,23809.68,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H16mr - EU West,H16MR,LINUX,USD,ANNUAL,25325.16,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H16r - EU North,H16R,LINUX,USD,ANNUAL,17774.04,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H16r - EU West,H16R,LINUX,USD,ANNUAL,18895.32,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H8 - EU North,H8,LINUX,USD,ANNUAL,8076.72,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H8 - EU West,H8,LINUX,USD,ANNUAL,8584.80,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series - H8m - EU North,H8M,LINUX,USD,ANNUAL,10827.36,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series - H8m - EU West,H8M,LINUX,USD,ANNUAL,11510.64,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16 - EU North,H16,WINDOWS,USD,ANNUAL,25176.24,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16 - EU West,H16,WINDOWS,USD,ANNUAL,28382.40,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16m - EU North,H16M,WINDOWS,USD,ANNUAL,33726.00,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16m - EU West,H16M,WINDOWS,USD,ANNUAL,38035.92,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16mr - EU North,H16MR,WINDOWS,USD,ANNUAL,37098.60,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16mr - EU West,H16MR,WINDOWS,USD,ANNUAL,41837.76,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16r - EU North,H16R,WINDOWS,USD,ANNUAL,27699.12,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H16r - EU West,H16R,WINDOWS,USD,ANNUAL,31220.64,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H8 - EU North,H8,WINDOWS,USD,ANNUAL,12588.12,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H8 - EU West,H8,WINDOWS,USD,ANNUAL,14199.96,0,EU West
+Azure,Virtual Machines,Virtual Machines H Series Windows - H8m - EU North,H8M,WINDOWS,USD,ANNUAL,16871.76,0,EU North
+Azure,Virtual Machines,Virtual Machines H Series Windows - H8m - EU West,H8M,WINDOWS,USD,ANNUAL,19017.96,0,EU West
+Azure,Virtual Machines,Virtual Machines HBS Series - HB60rs - EU West,HB60RS,LINUX,USD,ANNUAL,24615.60,0,EU West
+Azure,Virtual Machines,Virtual Machines HBS Series Windows - HB60rs - EU West,HB60RS,WINDOWS,USD,ANNUAL,47566.80,0,EU West
+Azure,Virtual Machines,Virtual Machines HCS Series - HC44rs - EU West,HC44RS,LINUX,USD,ANNUAL,34164.00,0,EU West
+Azure,Virtual Machines,Virtual Machines HCS Series Windows - HC44rs - EU West,HC44RS,WINDOWS,USD,ANNUAL,51070.80,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series - L16s - EU West,L16S,LINUX,USD,ANNUAL,12386.64,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series - L16s - US East 2,L16S,LINUX,USD,ANNUAL,11423.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series - L32s  - US East 2,L32S,LINUX,USD,ANNUAL,22854.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series - L32s - EU West,L32S,LINUX,USD,ANNUAL,24764.52,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series - L4s - EU West,L4S,LINUX,USD,ANNUAL,3092.28,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series - L4s - US East 2,L4S,LINUX,USD,ANNUAL,2855.76,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series - L8s - EU West,L8S,LINUX,USD,ANNUAL,6193.32,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series - L8s - US East 2,L8S,LINUX,USD,ANNUAL,5711.52,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L16s - EU West,L16S,WINDOWS,USD,ANNUAL,18509.88,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L16s - US East 2,L16S,WINDOWS,USD,ANNUAL,18159.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L32s  - US East 2,L32S,WINDOWS,USD,ANNUAL,36327.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L32s - EU West,L32S,WINDOWS,USD,ANNUAL,37019.76,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L4s - EU West,L4S,WINDOWS,USD,ANNUAL,4625.28,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L4s - US East 2,L4S,WINDOWS,USD,ANNUAL,4546.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L8s - EU West,L8S,WINDOWS,USD,ANNUAL,9250.56,0,EU West
+Azure,Virtual Machines,Virtual Machines LS Series Windows - L8s - US East 2,L8S,WINDOWS,USD,ANNUAL,9075.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L16s v2 - EU North,L16S_V2,LINUX,USD,ANNUAL,11388.00,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L16s v2 - EU West,L16S_V2,LINUX,USD,ANNUAL,12386.64,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L16s v2 - US East 2,L16S_V2,LINUX,USD,ANNUAL,10389.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L32s v2 - EU North,L32S_V2,LINUX,USD,ANNUAL,22863.60,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L32s v2 - EU West,L32S_V2,LINUX,USD,ANNUAL,24764.52,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L32s v2 - US East 2,L32S_V2,LINUX,USD,ANNUAL,20769.96,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L48s v2 - EU North,L48S_V2,LINUX,USD,ANNUAL,34356.72,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L48s v2 - EU West,L48S_V2,LINUX,USD,ANNUAL,37151.16,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L48s v2 - US East 2,L48S_V2,LINUX,USD,ANNUAL,31159.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L64s v2 - EU North,L64S_V2,LINUX,USD,ANNUAL,45814.80,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L64s v2 - EU West,L64S_V2,LINUX,USD,ANNUAL,49529.04,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L64s v2 - US East 2,L64S_V2,LINUX,USD,ANNUAL,41539.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L80s v2 - EU North,L80S_V2,LINUX,USD,ANNUAL,57290.40,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L80s v2 - EU West,L80S_V2,LINUX,USD,ANNUAL,61915.68,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L80s v2 - US East 2,L80S_V2,LINUX,USD,ANNUAL,51929.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L8s v2 - EU North,L8S_V2,LINUX,USD,ANNUAL,5729.04,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L8s v2 - EU West,L8S_V2,LINUX,USD,ANNUAL,6193.32,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series - L8s v2 - US East 2,L8S_V2,LINUX,USD,ANNUAL,5194.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L16s v2 - EU North,L16S_V2,WINDOWS,USD,ANNUAL,17520.00,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L16s v2 - EU West,L16S_V2,WINDOWS,USD,ANNUAL,18509.88,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L16s v2 - US East 2,L16S_V2,WINDOWS,USD,ANNUAL,16512.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L32s v2 - EU North,L32S_V2,WINDOWS,USD,ANNUAL,35127.60,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L32s v2 - EU West,L32S_V2,WINDOWS,USD,ANNUAL,37019.76,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L32s v2 - US East 2,L32S_V2,WINDOWS,USD,ANNUAL,33025.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L48s v2 - EU North,L48S_V2,WINDOWS,USD,ANNUAL,52726.44,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L48s v2 - EU West,L48S_V2,WINDOWS,USD,ANNUAL,55520.88,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L48s v2 - US East 2,L48S_V2,WINDOWS,USD,ANNUAL,49529.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L64s v2 - EU North,L64S_V2,WINDOWS,USD,ANNUAL,70255.20,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L64s v2 - EU West,L64S_V2,WINDOWS,USD,ANNUAL,74030.76,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L64s v2 - US East 2,L64S_V2,WINDOWS,USD,ANNUAL,66041.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L80s v2 - EU North,L80S_V2,WINDOWS,USD,ANNUAL,87862.80,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L80s v2 - EU West,L80S_V2,WINDOWS,USD,ANNUAL,92540.64,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L80s v2 - US East 2,L80S_V2,WINDOWS,USD,ANNUAL,82554.24,0,US East 2
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L8s v2 - EU North,L8S_V2,WINDOWS,USD,ANNUAL,8760.00,0,EU North
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L8s v2 - EU West,L8S_V2,WINDOWS,USD,ANNUAL,9250.56,0,EU West
+Azure,Virtual Machines,Virtual Machines LSv2 Series Windows - L8s v2 - US East 2,L8S_V2,WINDOWS,USD,ANNUAL,8251.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M128ms - EU North,M128MS,LINUX,USD,ANNUAL,266479.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M128ms - EU West,M128MS,LINUX,USD,ANNUAL,310892.40,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M128ms - US East 2,M128MS,LINUX,USD,ANNUAL,181069.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M128s - EU North,M128S,LINUX,USD,ANNUAL,133152.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M128s - EU West,M128S,LINUX,USD,ANNUAL,155402.40,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M128s - US East 2,M128S,LINUX,USD,ANNUAL,110901.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M16ms - EU North,M16MS,LINUX,USD,ANNUAL,30660.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M16ms - EU West,M16MS,LINUX,USD,ANNUAL,35828.40,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M16ms - US East 2,M16MS,LINUX,USD,ANNUAL,25579.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M16s - EU North,M16S,LINUX,USD,ANNUAL,23827.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M16s - EU West,M16S,LINUX,USD,ANNUAL,27769.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M16s - US East 2,M16S,LINUX,USD,ANNUAL,19797.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M32ls - EU North,M32LS,LINUX,USD,ANNUAL,26455.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M32ls - EU West,M32LS,LINUX,USD,ANNUAL,28645.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M32ls - US East 2,M32LS,LINUX,USD,ANNUAL,23914.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M32ms - EU North,M32MS,LINUX,USD,ANNUAL,61320.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M32ms - EU West,M32MS,LINUX,USD,ANNUAL,71569.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M32ms - US East 2,M32MS,LINUX,USD,ANNUAL,51070.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M32s - EU North,M32S,LINUX,USD,ANNUAL,33288.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M32s - EU West,M32S,LINUX,USD,ANNUAL,38806.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M32s - US East 2,M32S,LINUX,USD,ANNUAL,27681.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M32ts - EU North,M32TS,LINUX,USD,ANNUAL,24966.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M32ts - EU West,M32TS,LINUX,USD,ANNUAL,26980.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M32ts - US East 2,M32TS,LINUX,USD,ANNUAL,22513.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M64ls - EU North,M64LS,LINUX,USD,ANNUAL,50019.60,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M64ls - EU West,M64LS,LINUX,USD,ANNUAL,54049.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M64ls - US East 2,M64LS,LINUX,USD,ANNUAL,45026.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M64ms - EU North,M64MS,LINUX,USD,ANNUAL,103192.80,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M64ms - EU West,M64MS,LINUX,USD,ANNUAL,120450.00,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M64ms - US East 2,M64MS,LINUX,USD,ANNUAL,85935.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M64s - EU North,M64S,LINUX,USD,ANNUAL,66576.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M64s - EU West,M64S,LINUX,USD,ANNUAL,77613.60,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M64s - US East 2,M64S,LINUX,USD,ANNUAL,55450.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series - M8ms - EU North,M8MS,LINUX,USD,ANNUAL,15330.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series - M8ms - EU West,M8MS,LINUX,USD,ANNUAL,17870.40,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series - M8ms - US East 2,M8MS,LINUX,USD,ANNUAL,12702.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128ms - EU North,M128MS,WINDOWS,USD,ANNUAL,342428.40,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128ms - EU West,M128MS,WINDOWS,USD,ANNUAL,386841.60,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128ms - US East 2,M128MS,WINDOWS,USD,ANNUAL,261048.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128s - EU North,M128S,WINDOWS,USD,ANNUAL,182208.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128s - EU West,M128S,WINDOWS,USD,ANNUAL,204370.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M128s - US East 2,M128S,WINDOWS,USD,ANNUAL,159957.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16ms - EU North,M16MS,WINDOWS,USD,ANNUAL,40120.80,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16ms - EU West,M16MS,WINDOWS,USD,ANNUAL,45289.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16ms - US East 2,M16MS,WINDOWS,USD,ANNUAL,35040.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16s - EU North,M16S,WINDOWS,USD,ANNUAL,29959.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16s - EU West,M16S,WINDOWS,USD,ANNUAL,33901.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M16s - US East 2,M16S,WINDOWS,USD,ANNUAL,25929.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ls - EU North,M32LS,WINDOWS,USD,ANNUAL,38719.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ls - EU West,M32LS,WINDOWS,USD,ANNUAL,40821.60,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ls - US East 2,M32LS,WINDOWS,USD,ANNUAL,36091.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ms - EU North,M32MS,WINDOWS,USD,ANNUAL,80329.20,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ms - EU West,M32MS,WINDOWS,USD,ANNUAL,90578.40,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ms - US East 2,M32MS,WINDOWS,USD,ANNUAL,70080.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32s - EU North,M32S,WINDOWS,USD,ANNUAL,45552.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32s - EU West,M32S,WINDOWS,USD,ANNUAL,51070.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32s - US East 2,M32S,WINDOWS,USD,ANNUAL,39945.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ts - EU North,M32TS,WINDOWS,USD,ANNUAL,37230.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ts - EU West,M32TS,WINDOWS,USD,ANNUAL,39244.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M32ts - US East 2,M32TS,WINDOWS,USD,ANNUAL,34689.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ls - EU North,M64LS,WINDOWS,USD,ANNUAL,74460.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ls - EU West,M64LS,WINDOWS,USD,ANNUAL,78577.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ls - US East 2,M64LS,WINDOWS,USD,ANNUAL,69466.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ms - EU North,M64MS,WINDOWS,USD,ANNUAL,139984.80,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ms - EU West,M64MS,WINDOWS,USD,ANNUAL,158380.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64ms - US East 2,M64MS,WINDOWS,USD,ANNUAL,121851.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64s - EU North,M64S,WINDOWS,USD,ANNUAL,91016.40,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64s - EU West,M64S,WINDOWS,USD,ANNUAL,102229.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M64s - US East 2,M64S,WINDOWS,USD,ANNUAL,79978.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M8ms - EU North,M8MS,WINDOWS,USD,ANNUAL,20060.40,0,EU North
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M8ms - EU West,M8MS,WINDOWS,USD,ANNUAL,22600.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MS Series Windows - M8ms - US East 2,M8MS,WINDOWS,USD,ANNUAL,17520.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208ms v2 - EU North,M208MS_V2,LINUX,USD,ANNUAL,445594.92,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208ms v2 - EU West,M208MS_V2,LINUX,USD,ANNUAL,482728.56,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208ms v2 - US East 2,M208MS_V2,LINUX,USD,ANNUAL,371336.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208s v2 - EU North,M208S_V2,LINUX,USD,ANNUAL,222793.08,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208s v2 - EU West,M208S_V2,LINUX,USD,ANNUAL,241364.28,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M208s v2 - US East 2,M208S_V2,LINUX,USD,ANNUAL,185624.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416ms v2 - EU North,M416MS_V2,LINUX,USD,ANNUAL,990142.80,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416ms v2 - EU West,M416MS_V2,LINUX,USD,ANNUAL,1072705.80,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416ms v2 - US East 2,M416MS_V2,LINUX,USD,ANNUAL,825104.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416s v2 - EU North,M416S_V2,LINUX,USD,ANNUAL,495123.96,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416s v2 - EU West,M416S_V2,LINUX,USD,ANNUAL,536383.56,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series - M416s v2 - US East 2,M416S_V2,LINUX,USD,ANNUAL,412596.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208ms v2 - EU North,M208MS_V2,WINDOWS,USD,ANNUAL,525214.56,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208ms v2 - EU West,M208MS_V2,WINDOWS,USD,ANNUAL,562348.20,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208ms v2 - US East 2,M208MS_V2,WINDOWS,USD,ANNUAL,450877.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208s v2 - EU North,M208S_V2,WINDOWS,USD,ANNUAL,302421.48,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208s v2 - EU West,M208S_V2,WINDOWS,USD,ANNUAL,320983.92,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M208s v2 - US East 2,M208S_V2,WINDOWS,USD,ANNUAL,265252.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416ms v2 - EU North,M416MS_V2,WINDOWS,USD,ANNUAL,1149399.60,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416ms v2 - EU West,M416MS_V2,WINDOWS,USD,ANNUAL,1231910.04,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416ms v2 - US East 2,M416MS_V2,WINDOWS,USD,ANNUAL,984448.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416s v2 - EU North,M416S_V2,WINDOWS,USD,ANNUAL,654372.00,0,EU North
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416s v2 - EU West,M416S_V2,WINDOWS,USD,ANNUAL,695640.36,0,EU West
+Azure,Virtual Machines,Virtual Machines MSv2 Series Windows - M416s v2 - US East 2,M416S_V2,WINDOWS,USD,ANNUAL,571765.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC12 - EU North,NC12,LINUX,USD,ANNUAL,7113.12,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC12 - EU West,NC12,LINUX,USD,ANNUAL,8584.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC12 - US East 2,NC12,LINUX,USD,ANNUAL,6587.52,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24 - EU North,NC24,LINUX,USD,ANNUAL,14191.20,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24 - EU West,NC24,LINUX,USD,ANNUAL,17082.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24 - US East 2,NC24,LINUX,USD,ANNUAL,13140.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24r - EU North,NC24R,LINUX,USD,ANNUAL,15680.40,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24r - EU West,NC24R,LINUX,USD,ANNUAL,18834.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC24r - US East 2,NC24R,LINUX,USD,ANNUAL,14454.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC6 - EU North,NC6,LINUX,USD,ANNUAL,3565.32,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC6 - EU West,NC6,LINUX,USD,ANNUAL,4283.64,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series - NC6 - US East 2,NC6,LINUX,USD,ANNUAL,3293.76,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC12 - EU North,NC12,WINDOWS,USD,ANNUAL,11650.80,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC12 - EU West,NC12,WINDOWS,USD,ANNUAL,13140.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC12 - US East 2,NC12,WINDOWS,USD,ANNUAL,11125.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24 - EU North,NC24,WINDOWS,USD,ANNUAL,23389.20,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24 - EU West,NC24,WINDOWS,USD,ANNUAL,26280.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24 - US East 2,NC24,WINDOWS,USD,ANNUAL,22338.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24r - EU North,NC24R,WINDOWS,USD,ANNUAL,24790.80,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24r - EU West,NC24R,WINDOWS,USD,ANNUAL,27944.40,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC24r - US East 2,NC24R,WINDOWS,USD,ANNUAL,23652.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC6 - EU North,NC6,WINDOWS,USD,ANNUAL,5860.44,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC6 - EU West,NC6,WINDOWS,USD,ANNUAL,6578.76,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Promo Series Windows - NC6 - US East 2,NC6,WINDOWS,USD,ANNUAL,5588.88,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series - NC12 - EU North,NC12,LINUX,USD,ANNUAL,16179.72,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series - NC12 - EU West,NC12,LINUX,USD,ANNUAL,19412.16,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series - NC12 - US East 2,NC12,LINUX,USD,ANNUAL,14979.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series - NC24 - EU North,NC24,LINUX,USD,ANNUAL,32359.44,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series - NC24 - EU West,NC24,LINUX,USD,ANNUAL,38833.08,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series - NC24 - US East 2,NC24,LINUX,USD,ANNUAL,29959.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series - NC24r - EU North,NC24R,LINUX,USD,ANNUAL,35591.88,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series - NC24r - EU West,NC24R,LINUX,USD,ANNUAL,42705.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series - NC24r - US East 2,NC24R,LINUX,USD,ANNUAL,32955.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series - NC6 - EU North,NC6,LINUX,USD,ANNUAL,8085.48,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series - NC6 - EU West,NC6,LINUX,USD,ANNUAL,9706.08,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series - NC6 - US East 2,NC6,LINUX,USD,ANNUAL,7489.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC12 - EU North,NC12,WINDOWS,USD,ANNUAL,19236.96,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC12 - EU West,NC12,WINDOWS,USD,ANNUAL,23082.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC12 - US East 2,NC12,WINDOWS,USD,ANNUAL,18045.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24 - EU North,NC24,WINDOWS,USD,ANNUAL,38482.68,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24 - EU West,NC24,WINDOWS,USD,ANNUAL,46182.72,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24 - US East 2,NC24,WINDOWS,USD,ANNUAL,36082.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24R - EU North,NC24R,WINDOWS,USD,ANNUAL,42328.32,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24R - EU West,NC24R,WINDOWS,USD,ANNUAL,50799.24,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC24R - US East 2,NC24R,WINDOWS,USD,ANNUAL,39700.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC6 - EU North,NC6,WINDOWS,USD,ANNUAL,9618.48,0,EU North
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC6 - EU West,NC6,WINDOWS,USD,ANNUAL,11545.68,0,EU West
+Azure,Virtual Machines,Virtual Machines NC Series Windows - NC6 - US East 2,NC6,WINDOWS,USD,ANNUAL,9022.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv2 Series - NC12s v2 - EU West,NC12S_V2,LINUX,USD,ANNUAL,44640.96,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series - NC24rs v2 - EU West,NC24RS_V2,LINUX,USD,ANNUAL,98199.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series - NC24s v2 - EU West,NC24S_V2,LINUX,USD,ANNUAL,89176.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series - NC6s v2 - EU West,NC6S_V2,LINUX,USD,ANNUAL,22320.48,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series Windows - NC12s v2 - EU West,NC12S_V2,WINDOWS,USD,ANNUAL,53094.36,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series Windows - NC24rs v2 - EU West,NC24RS_V2,WINDOWS,USD,ANNUAL,116770.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series Windows - NC24s v2 - EU West,NC24S_V2,WINDOWS,USD,ANNUAL,106083.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv2 Series Windows - NC6s v2 - EU West,NC6S_V2,WINDOWS,USD,ANNUAL,26551.56,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC12s v3 - EU West,NC12S_V3,LINUX,USD,ANNUAL,63597.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC12s v3 - US East 2,NC12S_V3,LINUX,USD,ANNUAL,50895.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC24rs v3 - EU West,NC24RS_V3,LINUX,USD,ANNUAL,139984.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC24rs v3 - US East 2,NC24RS_V3,LINUX,USD,ANNUAL,112040.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC24s v3 - EU West,NC24S_V3,LINUX,USD,ANNUAL,127282.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC24s v3 - US East 2,NC24S_V3,LINUX,USD,ANNUAL,101878.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC6s v3 - EU West,NC6S_V3,LINUX,USD,ANNUAL,31798.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series - NC6s v3 - US East 2,NC6S_V3,LINUX,USD,ANNUAL,25491.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC12s v3 - EU West,NC12S_V3,WINDOWS,USD,ANNUAL,68152.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC12s v3 - US East 2,NC12S_V3,WINDOWS,USD,ANNUAL,55626.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC24rs v3 - EU West,NC24RS_V3,WINDOWS,USD,ANNUAL,150058.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC24rs v3 - US East 2,NC24RS_V3,WINDOWS,USD,ANNUAL,121326.00,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC24s v3 - EU West,NC24S_V3,WINDOWS,USD,ANNUAL,136393.20,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC24s v3 - US East 2,NC24S_V3,WINDOWS,USD,ANNUAL,111164.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC6s v3 - EU West,NC6S_V3,WINDOWS,USD,ANNUAL,34076.40,0,EU West
+Azure,Virtual Machines,Virtual Machines NCSv3 Series Windows - NC6s v3 - US East 2,NC6S_V3,WINDOWS,USD,ANNUAL,27769.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines NDS Series - ND12s - EU West,ND12S,LINUX,USD,ANNUAL,44632.20,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series - ND24rs - EU West,ND24RS,LINUX,USD,ANNUAL,98199.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series - ND24s - EU West,ND24S,LINUX,USD,ANNUAL,89176.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series - ND6s - EU West,ND6S,LINUX,USD,ANNUAL,22320.48,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series Windows - ND12s - EU West,ND12S,WINDOWS,USD,ANNUAL,53094.36,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series Windows - ND24rs - EU West,ND24RS,WINDOWS,USD,ANNUAL,116770.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series Windows - ND24s - EU West,ND24S,WINDOWS,USD,ANNUAL,106083.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NDS Series Windows - ND6s - EU West,ND6S,WINDOWS,USD,ANNUAL,26551.56,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV12 - EU North,NV12,LINUX,USD,ANNUAL,12088.80,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV12 - EU West,NV12,LINUX,USD,ANNUAL,13578.00,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV12 - US East 2,NV12,LINUX,USD,ANNUAL,12001.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV24 - EU North,NV24,LINUX,USD,ANNUAL,24177.60,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV24 - EU West,NV24,LINUX,USD,ANNUAL,27243.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV24 - US East 2,NV24,LINUX,USD,ANNUAL,24002.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV6 - EU North,NV6,LINUX,USD,ANNUAL,6044.40,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV6 - EU West,NV6,LINUX,USD,ANNUAL,6815.28,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series - NV6 - US East 2,NV6,LINUX,USD,ANNUAL,6000.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV12 - EU North,NV12,WINDOWS,USD,ANNUAL,16644.00,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV12 - EU West,NV12,WINDOWS,USD,ANNUAL,18220.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV12 - US East 2,NV12,WINDOWS,USD,ANNUAL,16556.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV24 - EU North,NV24,WINDOWS,USD,ANNUAL,33288.00,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV24 - EU West,NV24,WINDOWS,USD,ANNUAL,36441.60,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV24 - US East 2,NV24,WINDOWS,USD,ANNUAL,33112.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV6 - EU North,NV6,WINDOWS,USD,ANNUAL,8322.00,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV6 - EU West,NV6,WINDOWS,USD,ANNUAL,9110.40,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Promo Series Windows - NV6 - US East 2,NV6,WINDOWS,USD,ANNUAL,8295.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series - NV12 - EU North,NV12,LINUX,USD,ANNUAL,20139.24,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series - NV12 - EU West,NV12,LINUX,USD,ANNUAL,22723.44,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series - NV12 - US East 2,NV12,LINUX,USD,ANNUAL,19999.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series - NV24 - EU North,NV24,LINUX,USD,ANNUAL,40278.48,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series - NV24 - EU West,NV24,LINUX,USD,ANNUAL,45438.12,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series - NV24 - US East 2,NV24,LINUX,USD,ANNUAL,40006.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series - NV6 - EU North,NV6,LINUX,USD,ANNUAL,10074.00,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series - NV6 - EU West,NV6,LINUX,USD,ANNUAL,11361.72,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series - NV6 - US East 2,NV6,LINUX,USD,ANNUAL,10003.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV12 - EU North,NV12,WINDOWS,USD,ANNUAL,24256.44,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV12 - EU West,NV12,WINDOWS,USD,ANNUAL,26551.56,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV12 - US East 2,NV12,WINDOWS,USD,ANNUAL,23485.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV24 - EU North,NV24,WINDOWS,USD,ANNUAL,48521.64,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV24 - EU West,NV24,WINDOWS,USD,ANNUAL,53094.36,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV24 - US East 2,NV24,WINDOWS,USD,ANNUAL,46962.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV6 - EU North,NV6,WINDOWS,USD,ANNUAL,12132.60,0,EU North
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV6 - EU West,NV6,WINDOWS,USD,ANNUAL,13271.40,0,EU West
+Azure,Virtual Machines,Virtual Machines NV Series Windows - NV6 - US East 2,NV6,WINDOWS,USD,ANNUAL,11738.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV VDI Series - NV6sh - EU North,NV6SH,LINUX,USD,ANNUAL,4537.68,0,EU North
+Azure,Virtual Machines,Virtual Machines NV VDI Series - NV6sh - EU West,NV6SH,LINUX,USD,ANNUAL,5133.36,0,EU West
+Azure,Virtual Machines,Virtual Machines NV VDI Series - NV6sh - US East 2,NV6SH,LINUX,USD,ANNUAL,4502.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines NV VDI Series Windows - NV6sh - EU North,NV6SH,WINDOWS,USD,ANNUAL,5466.24,0,EU North
+Azure,Virtual Machines,Virtual Machines NV VDI Series Windows - NV6sh - EU West,NV6SH,WINDOWS,USD,ANNUAL,5991.84,0,EU West
+Azure,Virtual Machines,Virtual Machines NV VDI Series Windows - NV6sh - US East 2,NV6SH,WINDOWS,USD,ANNUAL,5282.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV12s v3 - EU North,NV12S_V3,LINUX,USD,ANNUAL,10074.00,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV12s v3 - EU West,NV12S_V3,LINUX,USD,ANNUAL,11869.80,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV24ms v3 - EU North,NV24MS_V3,LINUX,USD,ANNUAL,14208.72,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV24ms v3 - EU West,NV24MS_V3,LINUX,USD,ANNUAL,16749.12,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV24s v3 - EU North,NV24S_V3,LINUX,USD,ANNUAL,20139.24,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV24s v3 - EU West,NV24S_V3,LINUX,USD,ANNUAL,23722.08,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV32ms v3 - EU North,NV32MS_V3,LINUX,USD,ANNUAL,18352.20,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV32ms v3 - EU West,NV32MS_V3,LINUX,USD,ANNUAL,21637.20,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV48s v3 - EU North,NV48S_V3,LINUX,USD,ANNUAL,40260.96,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series - NV48s v3 - EU West,NV48S_V3,LINUX,USD,ANNUAL,47435.40,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV12s v3 - EU North,NV12S_V3,WINDOWS,USD,ANNUAL,14664.24,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV12s v3 - EU West,NV12S_V3,WINDOWS,USD,ANNUAL,16460.04,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV24ms v3 - EU North,NV24MS_V3,WINDOWS,USD,ANNUAL,23389.20,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV24ms v3 - EU West,NV24MS_V3,WINDOWS,USD,ANNUAL,25938.36,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV24s v3 - EU North,NV24S_V3,WINDOWS,USD,ANNUAL,29328.48,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV24s v3 - EU West,NV24S_V3,WINDOWS,USD,ANNUAL,32902.56,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV32ms v3 - EU North,NV32MS_V3,WINDOWS,USD,ANNUAL,30598.68,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV32ms v3 - EU West,NV32MS_V3,WINDOWS,USD,ANNUAL,33883.68,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV48s v3 - EU North,NV48S_V3,WINDOWS,USD,ANNUAL,58639.44,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 Series Windows - NV48s v3 - EU West,NV48S_V3,WINDOWS,USD,ANNUAL,65813.88,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 VDI Series - NV12sh v3 - EU North,NV12SH_V3,LINUX,USD,ANNUAL,4535.93,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 VDI Series - NV12sh v3 - EU West,NV12SH_V3,LINUX,USD,ANNUAL,5342.72,0,EU West
+Azure,Virtual Machines,Virtual Machines NVSv3 VDI Series Windows - NV12sh v3 - EU North,NV12SH_V3,WINDOWS,USD,ANNUAL,6599.78,0,EU North
+Azure,Virtual Machines,Virtual Machines NVSv3 VDI Series Windows - NV12sh v3 - EU West,NV12SH_V3,WINDOWS,USD,ANNUAL,7406.58,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series - PB12s - EU West,PB12S,LINUX,USD,ANNUAL,17870.40,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series - PB24s - EU West,PB24S,LINUX,USD,ANNUAL,35828.40,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series - PB6s - EU West,PB6S,LINUX,USD,ANNUAL,8979.00,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series Windows - PB12s - EU West,PB12S,WINDOWS,USD,ANNUAL,23914.80,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series Windows - PB24s - EU West,PB24S,WINDOWS,USD,ANNUAL,47829.60,0,EU West
+Azure,Virtual Machines,Virtual Machines PB Series Windows - PB6s - EU West,PB6S,WINDOWS,USD,ANNUAL,11966.16,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - EU North,D1,LINUX,USD,ANNUAL,607.94,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - EU West,D1,LINUX,USD,ANNUAL,699.05,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - US Central,D1,LINUX,USD,ANNUAL,641.23,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - US East 2,D1,LINUX,USD,ANNUAL,558.01,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - EU North,D11,LINUX,USD,ANNUAL,1603.08,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - EU West,D11,LINUX,USD,ANNUAL,1839.60,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - US Central,D11,LINUX,USD,ANNUAL,1603.08,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - US East 2,D11,LINUX,USD,ANNUAL,1436.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - EU North,D12,LINUX,USD,ANNUAL,3214.92,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - EU West,D12,LINUX,USD,ANNUAL,3679.20,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - US Central,D12,LINUX,USD,ANNUAL,3214.92,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - US East 2,D12,LINUX,USD,ANNUAL,2890.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - EU North,D13,LINUX,USD,ANNUAL,6412.32,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - EU West,D13,LINUX,USD,ANNUAL,7367.16,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - US Central,D13,LINUX,USD,ANNUAL,6412.32,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - US East 2,D13,LINUX,USD,ANNUAL,5772.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - EU North,D14,LINUX,USD,ANNUAL,12833.40,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - EU West,D14,LINUX,USD,ANNUAL,14725.56,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - US Central,D14,LINUX,USD,ANNUAL,12833.40,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - US East 2,D14,LINUX,USD,ANNUAL,11545.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - EU North,D2,LINUX,USD,ANNUAL,1217.64,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - EU West,D2,LINUX,USD,ANNUAL,1401.60,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - US Central,D2,LINUX,USD,ANNUAL,1278.96,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - US East 2,D2,LINUX,USD,ANNUAL,1112.52,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - EU North,D3,LINUX,USD,ANNUAL,2426.52,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - EU West,D3,LINUX,USD,ANNUAL,2794.44,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - US Central,D3,LINUX,USD,ANNUAL,2566.68,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - US East 2,D3,LINUX,USD,ANNUAL,2233.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - EU North,D4,LINUX,USD,ANNUAL,4861.80,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - EU West,D4,LINUX,USD,ANNUAL,5588.88,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - US Central,D4,LINUX,USD,ANNUAL,5124.60,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - US East 2,D4,LINUX,USD,ANNUAL,4458.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - EU North,D1,WINDOWS,USD,ANNUAL,1073.98,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - EU West,D1,WINDOWS,USD,ANNUAL,1231.66,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - US Central,D1,WINDOWS,USD,ANNUAL,1165.08,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - US East 2,D1,WINDOWS,USD,ANNUAL,1081.86,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - EU North,D11,WINDOWS,USD,ANNUAL,2023.56,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - EU West,D11,WINDOWS,USD,ANNUAL,2321.40,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - US Central,D11,WINDOWS,USD,ANNUAL,2198.76,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - US East 2,D11,WINDOWS,USD,ANNUAL,2023.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - EU North,D12,WINDOWS,USD,ANNUAL,4047.12,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - EU West,D12,WINDOWS,USD,ANNUAL,4651.56,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - US Central,D12,WINDOWS,USD,ANNUAL,4397.52,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - US East 2,D12,WINDOWS,USD,ANNUAL,4047.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - EU North,D13,WINDOWS,USD,ANNUAL,8085.48,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - EU West,D13,WINDOWS,USD,ANNUAL,9303.12,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - US Central,D13,WINDOWS,USD,ANNUAL,8786.28,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - US East 2,D13,WINDOWS,USD,ANNUAL,8085.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - EU North,D14,WINDOWS,USD,ANNUAL,16179.72,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - EU West,D14,WINDOWS,USD,ANNUAL,18606.24,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - US Central,D14,WINDOWS,USD,ANNUAL,17563.80,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - US East 2,D14,WINDOWS,USD,ANNUAL,16179.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - EU North,D2,WINDOWS,USD,ANNUAL,2146.20,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - EU West,D2,WINDOWS,USD,ANNUAL,2470.32,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - US Central,D2,WINDOWS,USD,ANNUAL,2330.16,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - US East 2,D2,WINDOWS,USD,ANNUAL,2163.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - EU North,D3,WINDOWS,USD,ANNUAL,4292.40,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - EU West,D3,WINDOWS,USD,ANNUAL,4931.88,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - US Central,D3,WINDOWS,USD,ANNUAL,4660.32,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - US East 2,D3,WINDOWS,USD,ANNUAL,4327.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - EU North,D4,WINDOWS,USD,ANNUAL,8584.80,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - EU West,D4,WINDOWS,USD,ANNUAL,9881.28,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - US Central,D4,WINDOWS,USD,ANNUAL,9320.64,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - US East 2,D4,WINDOWS,USD,ANNUAL,8654.88,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - EU North,D1_V2,LINUX,USD,ANNUAL,547.50,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - EU West,D1_V2,LINUX,USD,ANNUAL,565.02,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - US Central,D1_V2,LINUX,USD,ANNUAL,607.94,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - US East 2,D1_V2,LINUX,USD,ANNUAL,474.79,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - EU North,D11_V2,LINUX,USD,ANNUAL,1541.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - EU West,D11_V2,LINUX,USD,ANNUAL,1585.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - US Central,D11_V2,LINUX,USD,ANNUAL,1541.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - US East 2,D11_V2,LINUX,USD,ANNUAL,1243.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - EU North,D12_V2,LINUX,USD,ANNUAL,3083.52,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - EU West,D12_V2,LINUX,USD,ANNUAL,3153.60,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - US Central,D12_V2,LINUX,USD,ANNUAL,3083.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - US East 2,D12_V2,LINUX,USD,ANNUAL,2487.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - EU North,D13_V2,LINUX,USD,ANNUAL,6167.04,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - EU West,D13_V2,LINUX,USD,ANNUAL,6315.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - US Central,D13_V2,LINUX,USD,ANNUAL,6167.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - US East 2,D13_V2,LINUX,USD,ANNUAL,4975.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - EU North,D14_V2,LINUX,USD,ANNUAL,12334.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - EU West,D14_V2,LINUX,USD,ANNUAL,12631.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - US Central,D14_V2,LINUX,USD,ANNUAL,12334.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - US East 2,D14_V2,LINUX,USD,ANNUAL,9951.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - EU North,D15_V2,LINUX,USD,ANNUAL,15417.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - EU West,D15_V2,LINUX,USD,ANNUAL,15785.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - US Central,D15_V2,LINUX,USD,ANNUAL,15417.60,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - US East 2,D15_V2,LINUX,USD,ANNUAL,12439.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - EU North,D15I_V2,LINUX,USD,ANNUAL,15417.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - EU West,D15I_V2,LINUX,USD,ANNUAL,15785.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - US Central,D15I_V2,LINUX,USD,ANNUAL,15417.60,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - US East 2,D15I_V2,LINUX,USD,ANNUAL,12439.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - EU North,D2_V2,LINUX,USD,ANNUAL,1095.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - EU West,D2_V2,LINUX,USD,ANNUAL,1130.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - US Central,D2_V2,LINUX,USD,ANNUAL,1217.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - US East 2,D2_V2,LINUX,USD,ANNUAL,946.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - EU North,D3_V2,LINUX,USD,ANNUAL,2190.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - EU West,D3_V2,LINUX,USD,ANNUAL,2260.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - US Central,D3_V2,LINUX,USD,ANNUAL,2435.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - US East 2,D3_V2,LINUX,USD,ANNUAL,1909.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - EU North,D4_V2,LINUX,USD,ANNUAL,4388.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - EU West,D4_V2,LINUX,USD,ANNUAL,4528.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - US Central,D4_V2,LINUX,USD,ANNUAL,4870.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - US East 2,D4_V2,LINUX,USD,ANNUAL,3810.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - EU North,D5_V2,LINUX,USD,ANNUAL,8760.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - EU West,D5_V2,LINUX,USD,ANNUAL,9049.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - US Central,D5_V2,LINUX,USD,ANNUAL,9741.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - US East 2,D5_V2,LINUX,USD,ANNUAL,7621.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - EU North,D1_V2,WINDOWS,USD,ANNUAL,965.35,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - EU West,D1_V2,WINDOWS,USD,ANNUAL,1107.26,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - US Central,D1_V2,WINDOWS,USD,ANNUAL,1048.57,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - US East 2,D1_V2,WINDOWS,USD,ANNUAL,974.11,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - EU North,D11_V2,WINDOWS,USD,ANNUAL,2023.56,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - EU West,D11_V2,WINDOWS,USD,ANNUAL,2321.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - US Central,D11_V2,WINDOWS,USD,ANNUAL,2198.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - US East 2,D11_V2,WINDOWS,USD,ANNUAL,2023.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - EU North,D12_V2,WINDOWS,USD,ANNUAL,4047.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - EU West,D12_V2,WINDOWS,USD,ANNUAL,4634.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - US Central,D12_V2,WINDOWS,USD,ANNUAL,4397.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - US East 2,D12_V2,WINDOWS,USD,ANNUAL,4047.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - EU North,D13_V2,WINDOWS,USD,ANNUAL,8085.48,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - EU West,D13_V2,WINDOWS,USD,ANNUAL,9268.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - US Central,D13_V2,WINDOWS,USD,ANNUAL,8786.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - US East 2,D13_V2,WINDOWS,USD,ANNUAL,8085.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - EU North,D14_V2,WINDOWS,USD,ANNUAL,16179.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - EU West,D14_V2,WINDOWS,USD,ANNUAL,18544.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - US Central,D14_V2,WINDOWS,USD,ANNUAL,17563.80,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - US East 2,D14_V2,WINDOWS,USD,ANNUAL,16179.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - EU North,D15_V2,WINDOWS,USD,ANNUAL,20226.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - EU West,D15_V2,WINDOWS,USD,ANNUAL,23178.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - US Central,D15_V2,WINDOWS,USD,ANNUAL,21961.32,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - US East 2,D15_V2,WINDOWS,USD,ANNUAL,20226.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - EU North,D15I_V2,WINDOWS,USD,ANNUAL,20226.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - EU West,D15I_V2,WINDOWS,USD,ANNUAL,23178.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - US Central,D15I_V2,WINDOWS,USD,ANNUAL,21961.32,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - US East 2,D15I_V2,WINDOWS,USD,ANNUAL,20226.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - EU North,D2_V2,WINDOWS,USD,ANNUAL,1927.20,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - EU West,D2_V2,WINDOWS,USD,ANNUAL,2216.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - US Central,D2_V2,WINDOWS,USD,ANNUAL,2093.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - US East 2,D2_V2,WINDOWS,USD,ANNUAL,1944.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - EU North,D3_V2,WINDOWS,USD,ANNUAL,3871.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - EU West,D3_V2,WINDOWS,USD,ANNUAL,4432.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - US Central,D3_V2,WINDOWS,USD,ANNUAL,4196.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - US East 2,D3_V2,WINDOWS,USD,ANNUAL,3898.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - EU North,D4_V2,WINDOWS,USD,ANNUAL,7735.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - EU West,D4_V2,WINDOWS,USD,ANNUAL,8873.88,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - US Central,D4_V2,WINDOWS,USD,ANNUAL,8392.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - US East 2,D4_V2,WINDOWS,USD,ANNUAL,7787.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - EU North,D5_V2,WINDOWS,USD,ANNUAL,15461.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - EU West,D5_V2,WINDOWS,USD,ANNUAL,17730.24,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - US Central,D5_V2,WINDOWS,USD,ANNUAL,16775.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - US East 2,D5_V2,WINDOWS,USD,ANNUAL,15575.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - EU North,D16_V3,LINUX,USD,ANNUAL,7121.88,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - EU West,D16_V3,LINUX,USD,ANNUAL,7989.12,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - US Central,D16_V3,LINUX,USD,ANNUAL,7323.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - US East 2,D16_V3,LINUX,USD,ANNUAL,6394.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - EU North,D2_V3,LINUX,USD,ANNUAL,893.52,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - EU West,D2_V3,LINUX,USD,ANNUAL,998.64,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - US Central,D2_V3,LINUX,USD,ANNUAL,919.80,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - US East 2,D2_V3,LINUX,USD,ANNUAL,797.16,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - EU North,D32_V3,LINUX,USD,ANNUAL,14243.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - EU West,D32_V3,LINUX,USD,ANNUAL,15978.24,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - US Central,D32_V3,LINUX,USD,ANNUAL,14646.72,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - US East 2,D32_V3,LINUX,USD,ANNUAL,12780.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - EU North,D4_V3,LINUX,USD,ANNUAL,1778.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - EU West,D4_V3,LINUX,USD,ANNUAL,1997.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - US Central,D4_V3,LINUX,USD,ANNUAL,1830.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - US East 2,D4_V3,LINUX,USD,ANNUAL,1594.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - EU North,D48_V3,LINUX,USD,ANNUAL,21374.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - EU West,D48_V3,LINUX,USD,ANNUAL,23967.36,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - US Central,D48_V3,LINUX,USD,ANNUAL,21970.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - US East 2,D48_V3,LINUX,USD,ANNUAL,19175.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - EU North,D64_V3,LINUX,USD,ANNUAL,28496.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - EU West,D64_V3,LINUX,USD,ANNUAL,31956.48,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - US Central,D64_V3,LINUX,USD,ANNUAL,29293.44,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - US East 2,D64_V3,LINUX,USD,ANNUAL,25561.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - EU North,D8_V3,LINUX,USD,ANNUAL,3565.32,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - EU West,D8_V3,LINUX,USD,ANNUAL,3994.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - US Central,D8_V3,LINUX,USD,ANNUAL,3661.68,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - US East 2,D8_V3,LINUX,USD,ANNUAL,3197.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - EU North,D16_V3,WINDOWS,USD,ANNUAL,13245.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - EU West,D16_V3,WINDOWS,USD,ANNUAL,14112.36,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - US Central,D16_V3,WINDOWS,USD,ANNUAL,14068.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - US East 2,D16_V3,WINDOWS,USD,ANNUAL,12518.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - EU North,D2_V3,WINDOWS,USD,ANNUAL,1655.64,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - EU West,D2_V3,WINDOWS,USD,ANNUAL,1760.76,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - US Central,D2_V3,WINDOWS,USD,ANNUAL,1752.00,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - US East 2,D2_V3,WINDOWS,USD,ANNUAL,1568.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - EU North,D32_V3,WINDOWS,USD,ANNUAL,26499.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - EU West,D32_V3,WINDOWS,USD,ANNUAL,28224.72,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - US Central,D32_V3,WINDOWS,USD,ANNUAL,28128.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - US East 2,D32_V3,WINDOWS,USD,ANNUAL,25036.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - EU North,D4_V3,WINDOWS,USD,ANNUAL,3311.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - EU West,D4_V3,WINDOWS,USD,ANNUAL,3530.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - US Central,D4_V3,WINDOWS,USD,ANNUAL,3512.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - US East 2,D4_V3,WINDOWS,USD,ANNUAL,3127.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - EU North,D48_V3,WINDOWS,USD,ANNUAL,39744.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - EU West,D48_V3,WINDOWS,USD,ANNUAL,42345.84,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - US Central,D48_V3,WINDOWS,USD,ANNUAL,42196.92,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - US East 2,D48_V3,WINDOWS,USD,ANNUAL,37545.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - EU North,D64_V3,WINDOWS,USD,ANNUAL,52998.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - EU West,D64_V3,WINDOWS,USD,ANNUAL,56458.20,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - US Central,D64_V3,WINDOWS,USD,ANNUAL,56256.72,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - US East 2,D64_V3,WINDOWS,USD,ANNUAL,50063.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - EU North,D8_V3,WINDOWS,USD,ANNUAL,6622.56,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - EU West,D8_V3,WINDOWS,USD,ANNUAL,7060.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - US Central,D8_V3,WINDOWS,USD,ANNUAL,7034.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - US East 2,D8_V3,WINDOWS,USD,ANNUAL,6254.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - EU North,D2H_V3,LINUX,USD,ANNUAL,411.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - EU West,D2H_V3,LINUX,USD,ANNUAL,446.76,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - US Central,D2H_V3,LINUX,USD,ANNUAL,420.48,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - US East 2,D2H_V3,LINUX,USD,ANNUAL,367.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - EU North,D4H_V3,LINUX,USD,ANNUAL,805.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - EU West,D4H_V3,LINUX,USD,ANNUAL,902.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - US Central,D4H_V3,LINUX,USD,ANNUAL,823.44,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - US East 2,D4H_V3,LINUX,USD,ANNUAL,727.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - EU North,D8H_V3,LINUX,USD,ANNUAL,1606.58,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - EU West,D8H_V3,LINUX,USD,ANNUAL,1797.55,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - US Central,D8H_V3,LINUX,USD,ANNUAL,1647.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - US East 2,D8H_V3,LINUX,USD,ANNUAL,1440.14,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - EU North,D2H_V3,WINDOWS,USD,ANNUAL,753.36,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - EU West,D2H_V3,WINDOWS,USD,ANNUAL,797.16,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - US Central,D2H_V3,WINDOWS,USD,ANNUAL,788.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - US East 2,D2H_V3,WINDOWS,USD,ANNUAL,709.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - EU North,D4H_V3,WINDOWS,USD,ANNUAL,1497.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - EU West,D4H_V3,WINDOWS,USD,ANNUAL,1585.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - US Central,D4H_V3,WINDOWS,USD,ANNUAL,1585.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - US East 2,D4H_V3,WINDOWS,USD,ANNUAL,1419.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - EU North,D8H_V3,WINDOWS,USD,ANNUAL,2979.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - EU West,D8H_V3,WINDOWS,USD,ANNUAL,3179.00,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - US Central,D8H_V3,WINDOWS,USD,ANNUAL,3162.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - US East 2,D8H_V3,WINDOWS,USD,ANNUAL,2812.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU North,E16_V3,LINUX,USD,ANNUAL,9390.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU West,E16_V3,LINUX,USD,ANNUAL,10652.16,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US Central,E16_V3,LINUX,USD,ANNUAL,9714.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US East 2,E16_V3,LINUX,USD,ANNUAL,8856.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - EU North,E2_V3,LINUX,USD,ANNUAL,1173.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - EU West,E2_V3,LINUX,USD,ANNUAL,1331.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - US Central,E2_V3,LINUX,USD,ANNUAL,1217.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - US East 2,E2_V3,LINUX,USD,ANNUAL,1103.76,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - EU North,E20_V3,LINUX,USD,ANNUAL,11738.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - EU West,E20_V3,LINUX,USD,ANNUAL,13315.20,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - US Central,E20_V3,LINUX,USD,ANNUAL,12150.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - US East 2,E20_V3,LINUX,USD,ANNUAL,12150.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU North,E32_V3,LINUX,USD,ANNUAL,18772.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU West,E32_V3,LINUX,USD,ANNUAL,21304.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US Central,E32_V3,LINUX,USD,ANNUAL,19420.92,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US East 2,E32_V3,LINUX,USD,ANNUAL,17712.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - EU North,E4_V3,LINUX,USD,ANNUAL,2347.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - EU West,E4_V3,LINUX,USD,ANNUAL,2663.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - US Central,E4_V3,LINUX,USD,ANNUAL,2426.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - US East 2,E4_V3,LINUX,USD,ANNUAL,2216.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - EU North,E48_V3,LINUX,USD,ANNUAL,28163.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - EU West,E48_V3,LINUX,USD,ANNUAL,30353.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - US Central,E48_V3,LINUX,USD,ANNUAL,29135.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - US East 2,E48_V3,LINUX,USD,ANNUAL,25167.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - EU North,E64_V3,LINUX,USD,ANNUAL,33796.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - EU West,E64_V3,LINUX,USD,ANNUAL,36415.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - US Central,E64_V3,LINUX,USD,ANNUAL,34952.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - US East 2,E64_V3,LINUX,USD,ANNUAL,30204.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - EU North,E64I_V3,LINUX,USD,ANNUAL,33796.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - EU West,E64I_V3,LINUX,USD,ANNUAL,36415.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - US Central,E64I_V3,LINUX,USD,ANNUAL,34943.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - US East 2,E64I_V3,LINUX,USD,ANNUAL,30204.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU North,E8_V3,LINUX,USD,ANNUAL,4695.36,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU West,E8_V3,LINUX,USD,ANNUAL,5326.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US Central,E8_V3,LINUX,USD,ANNUAL,4853.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US East 2,E8_V3,LINUX,USD,ANNUAL,4423.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - EU North,E16_V3,WINDOWS,USD,ANNUAL,15513.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - EU West,E16_V3,WINDOWS,USD,ANNUAL,16775.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - US Central,E16_V3,WINDOWS,USD,ANNUAL,16477.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - US East 2,E16_V3,WINDOWS,USD,ANNUAL,14979.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - EU North,E2_V3,WINDOWS,USD,ANNUAL,1935.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - EU West,E2_V3,WINDOWS,USD,ANNUAL,2093.64,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - US Central,E2_V3,WINDOWS,USD,ANNUAL,2067.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - US East 2,E2_V3,WINDOWS,USD,ANNUAL,1874.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - EU North,E20_V3,WINDOWS,USD,ANNUAL,19394.64,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - EU West,E20_V3,WINDOWS,USD,ANNUAL,20971.44,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - US Central,E20_V3,WINDOWS,USD,ANNUAL,19788.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - US East 2,E20_V3,WINDOWS,USD,ANNUAL,20638.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - EU North,E32_V3,WINDOWS,USD,ANNUAL,31027.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - EU West,E32_V3,WINDOWS,USD,ANNUAL,33550.80,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - US Central,E32_V3,WINDOWS,USD,ANNUAL,32955.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - US East 2,E32_V3,WINDOWS,USD,ANNUAL,29959.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - EU North,E4_V3,WINDOWS,USD,ANNUAL,3880.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - EU West,E4_V3,WINDOWS,USD,ANNUAL,4196.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - US Central,E4_V3,WINDOWS,USD,ANNUAL,4117.20,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - US East 2,E4_V3,WINDOWS,USD,ANNUAL,3749.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - EU North,E48_V3,WINDOWS,USD,ANNUAL,46533.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - EU West,E48_V3,WINDOWS,USD,ANNUAL,48723.12,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - US Central,E48_V3,WINDOWS,USD,ANNUAL,47514.24,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - US East 2,E48_V3,WINDOWS,USD,ANNUAL,43537.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - EU North,E64_V3,WINDOWS,USD,ANNUAL,58297.80,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - EU West,E64_V3,WINDOWS,USD,ANNUAL,60917.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - US Central,E64_V3,WINDOWS,USD,ANNUAL,59454.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - US East 2,E64_V3,WINDOWS,USD,ANNUAL,54697.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - EU North,E64I_V3,WINDOWS,USD,ANNUAL,58297.80,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - EU West,E64I_V3,WINDOWS,USD,ANNUAL,60917.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - US Central,E64I_V3,WINDOWS,USD,ANNUAL,59445.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - US East 2,E64I_V3,WINDOWS,USD,ANNUAL,54697.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - EU North,E8_V3,WINDOWS,USD,ANNUAL,7752.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - EU West,E8_V3,WINDOWS,USD,ANNUAL,8392.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - US Central,E8_V3,WINDOWS,USD,ANNUAL,8243.16,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - US East 2,E8_V3,WINDOWS,USD,ANNUAL,7489.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - EU North,F1,LINUX,USD,ANNUAL,471.29,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - EU West,F1,LINUX,USD,ANNUAL,473.04,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - US Central,F1,LINUX,USD,ANNUAL,455.52,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - US East 2,F1,LINUX,USD,ANNUAL,413.47,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - EU North,F16,LINUX,USD,ANNUAL,7533.60,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - EU West,F16,LINUX,USD,ANNUAL,7568.64,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - US Central,F16,LINUX,USD,ANNUAL,7279.56,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - US East 2,F16,LINUX,USD,ANNUAL,6622.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - EU North,F2,LINUX,USD,ANNUAL,937.32,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - EU West,F2,LINUX,USD,ANNUAL,946.08,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - US Central,F2,LINUX,USD,ANNUAL,911.04,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - US East 2,F2,LINUX,USD,ANNUAL,823.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - EU North,F4,LINUX,USD,ANNUAL,1883.40,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - EU West,F4,LINUX,USD,ANNUAL,1892.16,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - US Central,F4,LINUX,USD,ANNUAL,1822.08,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - US East 2,F4,LINUX,USD,ANNUAL,1655.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - EU North,F8,LINUX,USD,ANNUAL,3758.04,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - EU West,F8,LINUX,USD,ANNUAL,3775.56,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - US Central,F8,LINUX,USD,ANNUAL,3644.16,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - US East 2,F8,LINUX,USD,ANNUAL,3311.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - EU North,F1,WINDOWS,USD,ANNUAL,848.84,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - EU West,F1,WINDOWS,USD,ANNUAL,857.60,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - US Central,F1,WINDOWS,USD,ANNUAL,874.25,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - US East 2,F1,WINDOWS,USD,ANNUAL,796.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - EU North,F16,WINDOWS,USD,ANNUAL,13578.00,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - EU West,F16,WINDOWS,USD,ANNUAL,13691.88,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - US Central,F16,WINDOWS,USD,ANNUAL,14024.76,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - US East 2,F16,WINDOWS,USD,ANNUAL,12745.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - EU North,F2,WINDOWS,USD,ANNUAL,1699.44,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - EU West,F2,WINDOWS,USD,ANNUAL,1716.96,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - US Central,F2,WINDOWS,USD,ANNUAL,1752.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - US East 2,F2,WINDOWS,USD,ANNUAL,1594.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - EU North,F4,WINDOWS,USD,ANNUAL,3398.88,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - EU West,F4,WINDOWS,USD,ANNUAL,3416.40,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - US Central,F4,WINDOWS,USD,ANNUAL,3504.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - US East 2,F4,WINDOWS,USD,ANNUAL,3188.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - EU North,F8,WINDOWS,USD,ANNUAL,6789.00,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - EU West,F8,WINDOWS,USD,ANNUAL,6841.56,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - US Central,F8,WINDOWS,USD,ANNUAL,7008.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - US East 2,F8,WINDOWS,USD,ANNUAL,6377.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G1/GS1 - EU West,G1,LINUX,USD,ANNUAL,5825.40,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G1/GS1 - US East 2,G1,LINUX,USD,ANNUAL,4581.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G2/GS2 - EU West,G2,LINUX,USD,ANNUAL,11650.80,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G2/GS2 - US East 2,G2,LINUX,USD,ANNUAL,9154.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G3/GS3 - EU West,G3,LINUX,USD,ANNUAL,23301.60,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G3/GS3 - US East 2,G3,LINUX,USD,ANNUAL,18308.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G4/GS4 - EU West,G4,LINUX,USD,ANNUAL,46603.20,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G4/GS4 - US East 2,G4,LINUX,USD,ANNUAL,36616.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G5/GS5 - EU West,G5,LINUX,USD,ANNUAL,83141.16,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G5/GS5 - US East 2,G5,LINUX,USD,ANNUAL,65078.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G1/GS1 - EU West,G1,WINDOWS,USD,ANNUAL,6412.32,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G1/GS1 - US East 2,G1,WINDOWS,USD,ANNUAL,5080.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G2/GS2 - EU West,G2,WINDOWS,USD,ANNUAL,12815.88,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G2/GS2 - US East 2,G2,WINDOWS,USD,ANNUAL,10152.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G3/GS3 - EU West,G3,WINDOWS,USD,ANNUAL,25631.76,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G3/GS3 - US East 2,G3,WINDOWS,USD,ANNUAL,20305.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G4/GS4 - EU West,G4,WINDOWS,USD,ANNUAL,51263.52,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G4/GS4 - US East 2,G4,WINDOWS,USD,ANNUAL,40611.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G5/GS5 - EU West,G5,WINDOWS,USD,ANNUAL,92374.20,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G5/GS5 - US East 2,G5,WINDOWS,USD,ANNUAL,73067.16,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - EU North,DS1,LINUX,USD,ANNUAL,607.94,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - EU West,DS1,LINUX,USD,ANNUAL,699.05,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - US Central,DS1,LINUX,USD,ANNUAL,641.23,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D1/DS1 - US East 2,DS1,LINUX,USD,ANNUAL,558.01,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - EU North,DS11,LINUX,USD,ANNUAL,1603.08,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - EU West,DS11,LINUX,USD,ANNUAL,1839.60,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - US Central,DS11,LINUX,USD,ANNUAL,1603.08,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D11/DS11 - US East 2,DS11,LINUX,USD,ANNUAL,1436.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - EU North,DS12,LINUX,USD,ANNUAL,3214.92,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - EU West,DS12,LINUX,USD,ANNUAL,3679.20,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - US Central,DS12,LINUX,USD,ANNUAL,3214.92,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D12/DS12 - US East 2,DS12,LINUX,USD,ANNUAL,2890.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - EU North,DS13,LINUX,USD,ANNUAL,6412.32,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - EU West,DS13,LINUX,USD,ANNUAL,7367.16,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - US Central,DS13,LINUX,USD,ANNUAL,6412.32,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D13/DS13 - US East 2,DS13,LINUX,USD,ANNUAL,5772.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - EU North,DS14,LINUX,USD,ANNUAL,12833.40,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - EU West,DS14,LINUX,USD,ANNUAL,14725.56,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - US Central,DS14,LINUX,USD,ANNUAL,12833.40,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D14/DS14 - US East 2,DS14,LINUX,USD,ANNUAL,11545.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - EU North,DS2,LINUX,USD,ANNUAL,1217.64,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - EU West,DS2,LINUX,USD,ANNUAL,1401.60,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - US Central,DS2,LINUX,USD,ANNUAL,1278.96,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D2/DS2 - US East 2,DS2,LINUX,USD,ANNUAL,1112.52,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - EU North,DS3,LINUX,USD,ANNUAL,2426.52,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - EU West,DS3,LINUX,USD,ANNUAL,2794.44,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - US Central,DS3,LINUX,USD,ANNUAL,2566.68,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D3/DS3 - US East 2,DS3,LINUX,USD,ANNUAL,2233.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - EU North,DS4,LINUX,USD,ANNUAL,4861.80,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - EU West,DS4,LINUX,USD,ANNUAL,5588.88,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - US Central,DS4,LINUX,USD,ANNUAL,5124.60,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series - D4/DS4 - US East 2,DS4,LINUX,USD,ANNUAL,4458.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - EU North,DS1,WINDOWS,USD,ANNUAL,1073.98,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - EU West,DS1,WINDOWS,USD,ANNUAL,1231.66,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - US Central,DS1,WINDOWS,USD,ANNUAL,1165.08,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D1/DS1 - US East 2,DS1,WINDOWS,USD,ANNUAL,1081.86,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - EU North,DS11,WINDOWS,USD,ANNUAL,2023.56,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - EU West,DS11,WINDOWS,USD,ANNUAL,2321.40,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - US Central,DS11,WINDOWS,USD,ANNUAL,2198.76,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D11/DS11 - US East 2,DS11,WINDOWS,USD,ANNUAL,2023.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - EU North,DS12,WINDOWS,USD,ANNUAL,4047.12,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - EU West,DS12,WINDOWS,USD,ANNUAL,4651.56,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - US Central,DS12,WINDOWS,USD,ANNUAL,4397.52,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D12/DS12 - US East 2,DS12,WINDOWS,USD,ANNUAL,4047.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - EU North,DS13,WINDOWS,USD,ANNUAL,8085.48,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - EU West,DS13,WINDOWS,USD,ANNUAL,9303.12,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - US Central,DS13,WINDOWS,USD,ANNUAL,8786.28,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D13/DS13 - US East 2,DS13,WINDOWS,USD,ANNUAL,8085.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - EU North,DS14,WINDOWS,USD,ANNUAL,16179.72,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - EU West,DS14,WINDOWS,USD,ANNUAL,18606.24,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - US Central,DS14,WINDOWS,USD,ANNUAL,17563.80,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D14/DS14 - US East 2,DS14,WINDOWS,USD,ANNUAL,16179.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - EU North,DS2,WINDOWS,USD,ANNUAL,2146.20,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - EU West,DS2,WINDOWS,USD,ANNUAL,2470.32,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - US Central,DS2,WINDOWS,USD,ANNUAL,2330.16,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D2/DS2 - US East 2,DS2,WINDOWS,USD,ANNUAL,2163.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - EU North,DS3,WINDOWS,USD,ANNUAL,4292.40,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - EU West,DS3,WINDOWS,USD,ANNUAL,4931.88,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - US Central,DS3,WINDOWS,USD,ANNUAL,4660.32,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D3/DS3 - US East 2,DS3,WINDOWS,USD,ANNUAL,4327.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - EU North,DS4,WINDOWS,USD,ANNUAL,8584.80,0,EU North
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - EU West,DS4,WINDOWS,USD,ANNUAL,9881.28,0,EU West
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - US Central,DS4,WINDOWS,USD,ANNUAL,9320.64,0,US Central
+Azure,Virtual Machines,Virtual Machines D/DS Series Windows - D4/DS4 - US East 2,DS4,WINDOWS,USD,ANNUAL,8654.88,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - EU North,DS1_V2,LINUX,USD,ANNUAL,547.50,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - EU West,DS1_V2,LINUX,USD,ANNUAL,565.02,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - US Central,DS1_V2,LINUX,USD,ANNUAL,607.94,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D1 v2/DS1 v2 - US East 2,DS1_V2,LINUX,USD,ANNUAL,474.79,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - EU North,DS11_V2,LINUX,USD,ANNUAL,1541.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - EU West,DS11_V2,LINUX,USD,ANNUAL,1585.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - US Central,DS11_V2,LINUX,USD,ANNUAL,1541.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D11 v2/DS11 v2 - US East 2,DS11_V2,LINUX,USD,ANNUAL,1243.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - EU North,DS12_V2,LINUX,USD,ANNUAL,3083.52,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - EU West,DS12_V2,LINUX,USD,ANNUAL,3153.60,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - US Central,DS12_V2,LINUX,USD,ANNUAL,3083.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D12 v2/DS12 v2 - US East 2,DS12_V2,LINUX,USD,ANNUAL,2487.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - EU North,DS13_V2,LINUX,USD,ANNUAL,6167.04,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - EU West,DS13_V2,LINUX,USD,ANNUAL,6315.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - US Central,DS13_V2,LINUX,USD,ANNUAL,6167.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D13 v2/DS13 v2 - US East 2,DS13_V2,LINUX,USD,ANNUAL,4975.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - EU North,DS14_V2,LINUX,USD,ANNUAL,12334.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - EU West,DS14_V2,LINUX,USD,ANNUAL,12631.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - US Central,DS14_V2,LINUX,USD,ANNUAL,12334.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D14 v2/DS14 v2 - US East 2,DS14_V2,LINUX,USD,ANNUAL,9951.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - EU North,DS15_V2,LINUX,USD,ANNUAL,15417.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - EU West,DS15_V2,LINUX,USD,ANNUAL,15785.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - US Central,DS15_V2,LINUX,USD,ANNUAL,15417.60,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15 v2/DS15 v2 - US East 2,DS15_V2,LINUX,USD,ANNUAL,12439.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - EU North,DS15I_V2,LINUX,USD,ANNUAL,15417.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - EU West,DS15I_V2,LINUX,USD,ANNUAL,15785.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - US Central,DS15I_V2,LINUX,USD,ANNUAL,15417.60,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D15i v2/DS15i v2 - US East 2,DS15I_V2,LINUX,USD,ANNUAL,12439.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - EU North,DS2_V2,LINUX,USD,ANNUAL,1095.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - EU West,DS2_V2,LINUX,USD,ANNUAL,1130.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - US Central,DS2_V2,LINUX,USD,ANNUAL,1217.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D2 v2/DS2 v2 - US East 2,DS2_V2,LINUX,USD,ANNUAL,946.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - EU North,DS3_V2,LINUX,USD,ANNUAL,2190.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - EU West,DS3_V2,LINUX,USD,ANNUAL,2260.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - US Central,DS3_V2,LINUX,USD,ANNUAL,2435.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D3 v2/DS3 v2 - US East 2,DS3_V2,LINUX,USD,ANNUAL,1909.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - EU North,DS4_V2,LINUX,USD,ANNUAL,4388.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - EU West,DS4_V2,LINUX,USD,ANNUAL,4528.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - US Central,DS4_V2,LINUX,USD,ANNUAL,4870.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D4 v2/DS4 v2 - US East 2,DS4_V2,LINUX,USD,ANNUAL,3810.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - EU North,DS5_V2,LINUX,USD,ANNUAL,8760.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - EU West,DS5_V2,LINUX,USD,ANNUAL,9049.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - US Central,DS5_V2,LINUX,USD,ANNUAL,9741.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series - D5 v2/DS5 v2 - US East 2,DS5_V2,LINUX,USD,ANNUAL,7621.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - EU North,DS1_V2,WINDOWS,USD,ANNUAL,965.35,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - EU West,DS1_V2,WINDOWS,USD,ANNUAL,1107.26,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - US Central,DS1_V2,WINDOWS,USD,ANNUAL,1048.57,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D1 v2/DS1 v2 - US East 2,DS1_V2,WINDOWS,USD,ANNUAL,974.11,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - EU North,DS11_V2,WINDOWS,USD,ANNUAL,2023.56,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - EU West,DS11_V2,WINDOWS,USD,ANNUAL,2321.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - US Central,DS11_V2,WINDOWS,USD,ANNUAL,2198.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D11 v2/DS11 v2 - US East 2,DS11_V2,WINDOWS,USD,ANNUAL,2023.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - EU North,DS12_V2,WINDOWS,USD,ANNUAL,4047.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - EU West,DS12_V2,WINDOWS,USD,ANNUAL,4634.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - US Central,DS12_V2,WINDOWS,USD,ANNUAL,4397.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D12 v2/DS12 v2 - US East 2,DS12_V2,WINDOWS,USD,ANNUAL,4047.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - EU North,DS13_V2,WINDOWS,USD,ANNUAL,8085.48,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - EU West,DS13_V2,WINDOWS,USD,ANNUAL,9268.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - US Central,DS13_V2,WINDOWS,USD,ANNUAL,8786.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D13 v2/DS13 v2 - US East 2,DS13_V2,WINDOWS,USD,ANNUAL,8085.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - EU North,DS14_V2,WINDOWS,USD,ANNUAL,16179.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - EU West,DS14_V2,WINDOWS,USD,ANNUAL,18544.92,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - US Central,DS14_V2,WINDOWS,USD,ANNUAL,17563.80,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D14 v2/DS14 v2 - US East 2,DS14_V2,WINDOWS,USD,ANNUAL,16179.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - EU North,DS15_V2,WINDOWS,USD,ANNUAL,20226.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - EU West,DS15_V2,WINDOWS,USD,ANNUAL,23178.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - US Central,DS15_V2,WINDOWS,USD,ANNUAL,21961.32,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15 v2/DS15 v2 - US East 2,DS15_V2,WINDOWS,USD,ANNUAL,20226.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - EU North,DS15I_V2,WINDOWS,USD,ANNUAL,20226.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - EU West,DS15I_V2,WINDOWS,USD,ANNUAL,23178.96,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - US Central,DS15I_V2,WINDOWS,USD,ANNUAL,21961.32,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D15i v2/DS15i v2 - US East 2,DS15I_V2,WINDOWS,USD,ANNUAL,20226.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - EU North,DS2_V2,WINDOWS,USD,ANNUAL,1927.20,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - EU West,DS2_V2,WINDOWS,USD,ANNUAL,2216.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - US Central,DS2_V2,WINDOWS,USD,ANNUAL,2093.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D2 v2/DS2 v2 - US East 2,DS2_V2,WINDOWS,USD,ANNUAL,1944.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - EU North,DS3_V2,WINDOWS,USD,ANNUAL,3871.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - EU West,DS3_V2,WINDOWS,USD,ANNUAL,4432.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - US Central,DS3_V2,WINDOWS,USD,ANNUAL,4196.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D3 v2/DS3 v2 - US East 2,DS3_V2,WINDOWS,USD,ANNUAL,3898.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - EU North,DS4_V2,WINDOWS,USD,ANNUAL,7735.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - EU West,DS4_V2,WINDOWS,USD,ANNUAL,8873.88,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - US Central,DS4_V2,WINDOWS,USD,ANNUAL,8392.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D4 v2/DS4 v2 - US East 2,DS4_V2,WINDOWS,USD,ANNUAL,7787.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - EU North,DS5_V2,WINDOWS,USD,ANNUAL,15461.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - EU West,DS5_V2,WINDOWS,USD,ANNUAL,17730.24,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - US Central,DS5_V2,WINDOWS,USD,ANNUAL,16775.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv2/DSv2 Series Windows - D5 v2/DS5 v2 - US East 2,DS5_V2,WINDOWS,USD,ANNUAL,15575.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - EU North,D16S_V3,LINUX,USD,ANNUAL,7121.88,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - EU West,D16S_V3,LINUX,USD,ANNUAL,7989.12,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - US Central,D16S_V3,LINUX,USD,ANNUAL,7323.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D16 v3/D16s v3 - US East 2,D16S_V3,LINUX,USD,ANNUAL,6394.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - EU North,D2S_V3,LINUX,USD,ANNUAL,893.52,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - EU West,D2S_V3,LINUX,USD,ANNUAL,998.64,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - US Central,D2S_V3,LINUX,USD,ANNUAL,919.80,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D2 v3/D2s v3 - US East 2,D2S_V3,LINUX,USD,ANNUAL,797.16,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - EU North,D32S_V3,LINUX,USD,ANNUAL,14243.76,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - EU West,D32S_V3,LINUX,USD,ANNUAL,15978.24,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - US Central,D32S_V3,LINUX,USD,ANNUAL,14646.72,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D32 v3/D32s v3 - US East 2,D32S_V3,LINUX,USD,ANNUAL,12780.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - EU North,D4S_V3,LINUX,USD,ANNUAL,1778.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - EU West,D4S_V3,LINUX,USD,ANNUAL,1997.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - US Central,D4S_V3,LINUX,USD,ANNUAL,1830.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D4 v3/D4s v3 - US East 2,D4S_V3,LINUX,USD,ANNUAL,1594.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - EU North,D48S_V3,LINUX,USD,ANNUAL,21374.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - EU West,D48S_V3,LINUX,USD,ANNUAL,23967.36,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - US Central,D48S_V3,LINUX,USD,ANNUAL,21970.08,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D48 v3/D48s v3 - US East 2,D48S_V3,LINUX,USD,ANNUAL,19175.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - EU North,D64S_V3,LINUX,USD,ANNUAL,28496.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - EU West,D64S_V3,LINUX,USD,ANNUAL,31956.48,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - US Central,D64S_V3,LINUX,USD,ANNUAL,29293.44,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D64 v3/D64s v3 - US East 2,D64S_V3,LINUX,USD,ANNUAL,25561.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - EU North,D8S_V3,LINUX,USD,ANNUAL,3565.32,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - EU West,D8S_V3,LINUX,USD,ANNUAL,3994.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - US Central,D8S_V3,LINUX,USD,ANNUAL,3661.68,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series - D8 v3/D8s v3 - US East 2,D8S_V3,LINUX,USD,ANNUAL,3197.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - EU North,D16S_V3,WINDOWS,USD,ANNUAL,13245.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - EU West,D16S_V3,WINDOWS,USD,ANNUAL,14112.36,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - US Central,D16S_V3,WINDOWS,USD,ANNUAL,14068.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D16 v3/D16s v3 - US East 2,D16S_V3,WINDOWS,USD,ANNUAL,12518.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - EU North,D2S_V3,WINDOWS,USD,ANNUAL,1655.64,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - EU West,D2S_V3,WINDOWS,USD,ANNUAL,1760.76,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - US Central,D2S_V3,WINDOWS,USD,ANNUAL,1752.00,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D2 v3/D2s v3 - US East 2,D2S_V3,WINDOWS,USD,ANNUAL,1568.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - EU North,D32S_V3,WINDOWS,USD,ANNUAL,26499.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - EU West,D32S_V3,WINDOWS,USD,ANNUAL,28224.72,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - US Central,D32S_V3,WINDOWS,USD,ANNUAL,28128.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D32 v3/D32s v3 - US East 2,D32S_V3,WINDOWS,USD,ANNUAL,25036.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - EU North,D4S_V3,WINDOWS,USD,ANNUAL,3311.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - EU West,D4S_V3,WINDOWS,USD,ANNUAL,3530.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - US Central,D4S_V3,WINDOWS,USD,ANNUAL,3512.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D4 v3/D4s v3 - US East 2,D4S_V3,WINDOWS,USD,ANNUAL,3127.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - EU North,D48S_V3,WINDOWS,USD,ANNUAL,39744.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - EU West,D48S_V3,WINDOWS,USD,ANNUAL,42345.84,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - US Central,D48S_V3,WINDOWS,USD,ANNUAL,42196.92,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D48 v3/D48s v3 - US East 2,D48S_V3,WINDOWS,USD,ANNUAL,37545.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - EU North,D64S_V3,WINDOWS,USD,ANNUAL,52998.00,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - EU West,D64S_V3,WINDOWS,USD,ANNUAL,56458.20,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - US Central,D64S_V3,WINDOWS,USD,ANNUAL,56256.72,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D64 v3/D64s v3 - US East 2,D64S_V3,WINDOWS,USD,ANNUAL,50063.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - EU North,D8S_V3,WINDOWS,USD,ANNUAL,6622.56,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - EU West,D8S_V3,WINDOWS,USD,ANNUAL,7060.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - US Central,D8S_V3,WINDOWS,USD,ANNUAL,7034.28,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/DSv3 Series Windows - D8 v3/D8s v3 - US East 2,D8S_V3,WINDOWS,USD,ANNUAL,6254.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - EU North,D2SH_V3,LINUX,USD,ANNUAL,411.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - EU West,D2SH_V3,LINUX,USD,ANNUAL,446.76,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - US Central,D2SH_V3,LINUX,USD,ANNUAL,420.48,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D2h v3/D2sh v3 - US East 2,D2SH_V3,LINUX,USD,ANNUAL,367.92,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - EU North,D4SH_V3,LINUX,USD,ANNUAL,805.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - EU West,D4SH_V3,LINUX,USD,ANNUAL,902.28,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - US Central,D4SH_V3,LINUX,USD,ANNUAL,823.44,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D4h v3/D4sh v3 - US East 2,D4SH_V3,LINUX,USD,ANNUAL,727.08,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - EU North,D8SH_V3,LINUX,USD,ANNUAL,1606.58,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - EU West,D8SH_V3,LINUX,USD,ANNUAL,1797.55,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - US Central,D8SH_V3,LINUX,USD,ANNUAL,1647.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series - D8h v3/D8sh v3 - US East 2,D8SH_V3,LINUX,USD,ANNUAL,1440.14,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - EU North,D2SH_V3,WINDOWS,USD,ANNUAL,753.36,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - EU West,D2SH_V3,WINDOWS,USD,ANNUAL,797.16,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - US Central,D2SH_V3,WINDOWS,USD,ANNUAL,788.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D2h v3/D2sh v3 - US East 2,D2SH_V3,WINDOWS,USD,ANNUAL,709.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - EU North,D4SH_V3,WINDOWS,USD,ANNUAL,1497.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - EU West,D4SH_V3,WINDOWS,USD,ANNUAL,1585.56,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - US Central,D4SH_V3,WINDOWS,USD,ANNUAL,1585.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D4h v3/D4sh v3 - US East 2,D4SH_V3,WINDOWS,USD,ANNUAL,1419.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - EU North,D8SH_V3,WINDOWS,USD,ANNUAL,2979.28,0,EU North
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - EU West,D8SH_V3,WINDOWS,USD,ANNUAL,3179.00,0,EU West
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - US Central,D8SH_V3,WINDOWS,USD,ANNUAL,3162.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Dv3/Dsv3 VDI Series Windows - D8h v3/D8sh v3 - US East 2,D8SH_V3,WINDOWS,USD,ANNUAL,2812.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU North,E16S_V3,LINUX,USD,ANNUAL,9390.72,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU West,E16S_V3,LINUX,USD,ANNUAL,10652.16,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US Central,E16S_V3,LINUX,USD,ANNUAL,9714.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US East 2,E16S_V3,LINUX,USD,ANNUAL,8856.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - EU North,E2S_V3,LINUX,USD,ANNUAL,1173.84,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - EU West,E2S_V3,LINUX,USD,ANNUAL,1331.52,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - US Central,E2S_V3,LINUX,USD,ANNUAL,1217.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E2 v3/E2s v3 - US East 2,E2S_V3,LINUX,USD,ANNUAL,1103.76,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - EU North,E20S_V3,LINUX,USD,ANNUAL,11738.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - EU West,E20S_V3,LINUX,USD,ANNUAL,13315.20,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - US Central,E20S_V3,LINUX,USD,ANNUAL,12150.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E20 v3/E20s v3 - US East 2,E20S_V3,LINUX,USD,ANNUAL,12150.12,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU North,E32S_V3,LINUX,USD,ANNUAL,18772.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU West,E32S_V3,LINUX,USD,ANNUAL,21304.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US Central,E32S_V3,LINUX,USD,ANNUAL,19420.92,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US East 2,E32S_V3,LINUX,USD,ANNUAL,17712.72,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - EU North,E4S_V3,LINUX,USD,ANNUAL,2347.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - EU West,E4S_V3,LINUX,USD,ANNUAL,2663.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - US Central,E4S_V3,LINUX,USD,ANNUAL,2426.52,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E4 v3/E4s v3 - US East 2,E4S_V3,LINUX,USD,ANNUAL,2216.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - EU North,E48S_V3,LINUX,USD,ANNUAL,28163.40,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - EU West,E48S_V3,LINUX,USD,ANNUAL,30353.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - US Central,E48S_V3,LINUX,USD,ANNUAL,29135.76,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E48 v3/E48s v3 - US East 2,E48S_V3,LINUX,USD,ANNUAL,25167.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - EU North,E64S_V3,LINUX,USD,ANNUAL,33796.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - EU West,E64S_V3,LINUX,USD,ANNUAL,36415.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - US Central,E64S_V3,LINUX,USD,ANNUAL,34952.40,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64 v3/E64s v3 - US East 2,E64S_V3,LINUX,USD,ANNUAL,30204.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - EU North,E64IS_V3,LINUX,USD,ANNUAL,33796.08,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - EU West,E64IS_V3,LINUX,USD,ANNUAL,36415.32,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - US Central,E64IS_V3,LINUX,USD,ANNUAL,34943.64,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E64i v3/E64is v3 - US East 2,E64IS_V3,LINUX,USD,ANNUAL,30204.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU North,E8S_V3,LINUX,USD,ANNUAL,4695.36,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU West,E8S_V3,LINUX,USD,ANNUAL,5326.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US Central,E8S_V3,LINUX,USD,ANNUAL,4853.04,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US East 2,E8S_V3,LINUX,USD,ANNUAL,4423.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - EU North,E16S_V3,WINDOWS,USD,ANNUAL,15513.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - EU West,E16S_V3,WINDOWS,USD,ANNUAL,16775.40,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - US Central,E16S_V3,WINDOWS,USD,ANNUAL,16477.56,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E16 v3/E16s v3 - US East 2,E16S_V3,WINDOWS,USD,ANNUAL,14979.60,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - EU North,E2S_V3,WINDOWS,USD,ANNUAL,1935.96,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - EU West,E2S_V3,WINDOWS,USD,ANNUAL,2093.64,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - US Central,E2S_V3,WINDOWS,USD,ANNUAL,2067.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E2 v3/E2s v3 - US East 2,E2S_V3,WINDOWS,USD,ANNUAL,1874.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - EU North,E20S_V3,WINDOWS,USD,ANNUAL,19394.64,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - EU West,E20S_V3,WINDOWS,USD,ANNUAL,20971.44,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - US Central,E20S_V3,WINDOWS,USD,ANNUAL,19788.84,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E20 v3/E20s v3 - US East 2,E20S_V3,WINDOWS,USD,ANNUAL,20638.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - EU North,E32S_V3,WINDOWS,USD,ANNUAL,31027.92,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - EU West,E32S_V3,WINDOWS,USD,ANNUAL,33550.80,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - US Central,E32S_V3,WINDOWS,USD,ANNUAL,32955.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E32 v3/E32s v3 - US East 2,E32S_V3,WINDOWS,USD,ANNUAL,29959.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - EU North,E4S_V3,WINDOWS,USD,ANNUAL,3880.68,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - EU West,E4S_V3,WINDOWS,USD,ANNUAL,4196.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - US Central,E4S_V3,WINDOWS,USD,ANNUAL,4117.20,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E4 v3/E4s v3 - US East 2,E4S_V3,WINDOWS,USD,ANNUAL,3749.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - EU North,E48S_V3,WINDOWS,USD,ANNUAL,46533.12,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - EU West,E48S_V3,WINDOWS,USD,ANNUAL,48723.12,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - US Central,E48S_V3,WINDOWS,USD,ANNUAL,47514.24,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E48 v3/E48s v3 - US East 2,E48S_V3,WINDOWS,USD,ANNUAL,43537.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - EU North,E64S_V3,WINDOWS,USD,ANNUAL,58297.80,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - EU West,E64S_V3,WINDOWS,USD,ANNUAL,60917.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - US Central,E64S_V3,WINDOWS,USD,ANNUAL,59454.12,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64 v3/E64s v3 - US East 2,E64S_V3,WINDOWS,USD,ANNUAL,54697.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - EU North,E64IS_V3,WINDOWS,USD,ANNUAL,58297.80,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - EU West,E64IS_V3,WINDOWS,USD,ANNUAL,60917.04,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - US Central,E64IS_V3,WINDOWS,USD,ANNUAL,59445.36,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E64i v3/E64is v3 - US East 2,E64IS_V3,WINDOWS,USD,ANNUAL,54697.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - EU North,E8S_V3,WINDOWS,USD,ANNUAL,7752.60,0,EU North
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - EU West,E8S_V3,WINDOWS,USD,ANNUAL,8392.08,0,EU West
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - US Central,E8S_V3,WINDOWS,USD,ANNUAL,8243.16,0,US Central
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series Windows - E8 v3/E8s v3 - US East 2,E8S_V3,WINDOWS,USD,ANNUAL,7489.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - EU North,F1S,LINUX,USD,ANNUAL,471.29,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - EU West,F1S,LINUX,USD,ANNUAL,473.04,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - US Central,F1S,LINUX,USD,ANNUAL,455.52,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F1/F1s - US East 2,F1S,LINUX,USD,ANNUAL,413.47,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - EU North,F16S,LINUX,USD,ANNUAL,7533.60,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - EU West,F16S,LINUX,USD,ANNUAL,7568.64,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - US Central,F16S,LINUX,USD,ANNUAL,7279.56,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F16/F16s - US East 2,F16S,LINUX,USD,ANNUAL,6622.56,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - EU North,F2S,LINUX,USD,ANNUAL,937.32,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - EU West,F2S,LINUX,USD,ANNUAL,946.08,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - US Central,F2S,LINUX,USD,ANNUAL,911.04,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F2/F2s - US East 2,F2S,LINUX,USD,ANNUAL,823.44,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - EU North,F4S,LINUX,USD,ANNUAL,1883.40,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - EU West,F4S,LINUX,USD,ANNUAL,1892.16,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - US Central,F4S,LINUX,USD,ANNUAL,1822.08,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F4/F4s - US East 2,F4S,LINUX,USD,ANNUAL,1655.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - EU North,F8S,LINUX,USD,ANNUAL,3758.04,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - EU West,F8S,LINUX,USD,ANNUAL,3775.56,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - US Central,F8S,LINUX,USD,ANNUAL,3644.16,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series - F8/F8s - US East 2,F8S,LINUX,USD,ANNUAL,3311.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - EU North,F1S,WINDOWS,USD,ANNUAL,848.84,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - EU West,F1S,WINDOWS,USD,ANNUAL,857.60,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - US Central,F1S,WINDOWS,USD,ANNUAL,874.25,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F1/F1s - US East 2,F1S,WINDOWS,USD,ANNUAL,796.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - EU North,F16S,WINDOWS,USD,ANNUAL,13578.00,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - EU West,F16S,WINDOWS,USD,ANNUAL,13691.88,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - US Central,F16S,WINDOWS,USD,ANNUAL,14024.76,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F16/F16s - US East 2,F16S,WINDOWS,USD,ANNUAL,12745.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - EU North,F2S,WINDOWS,USD,ANNUAL,1699.44,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - EU West,F2S,WINDOWS,USD,ANNUAL,1716.96,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - US Central,F2S,WINDOWS,USD,ANNUAL,1752.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F2/F2s - US East 2,F2S,WINDOWS,USD,ANNUAL,1594.32,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - EU North,F4S,WINDOWS,USD,ANNUAL,3398.88,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - EU West,F4S,WINDOWS,USD,ANNUAL,3416.40,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - US Central,F4S,WINDOWS,USD,ANNUAL,3504.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F4/F4s - US East 2,F4S,WINDOWS,USD,ANNUAL,3188.64,0,US East 2
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - EU North,F8S,WINDOWS,USD,ANNUAL,6789.00,0,EU North
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - EU West,F8S,WINDOWS,USD,ANNUAL,6841.56,0,EU West
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - US Central,F8S,WINDOWS,USD,ANNUAL,7008.00,0,US Central
+Azure,Virtual Machines,Virtual Machines F/FS Series Windows - F8/F8s - US East 2,F8S,WINDOWS,USD,ANNUAL,6377.28,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G1/GS1 - EU West,GS1,LINUX,USD,ANNUAL,5825.40,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G1/GS1 - US East 2,GS1,LINUX,USD,ANNUAL,4581.48,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G2/GS2 - EU West,GS2,LINUX,USD,ANNUAL,11650.80,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G2/GS2 - US East 2,GS2,LINUX,USD,ANNUAL,9154.20,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G3/GS3 - EU West,GS3,LINUX,USD,ANNUAL,23301.60,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G3/GS3 - US East 2,GS3,LINUX,USD,ANNUAL,18308.40,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G4/GS4 - EU West,GS4,LINUX,USD,ANNUAL,46603.20,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G4/GS4 - US East 2,GS4,LINUX,USD,ANNUAL,36616.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series - G5/GS5 - EU West,GS5,LINUX,USD,ANNUAL,83141.16,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series - G5/GS5 - US East 2,GS5,LINUX,USD,ANNUAL,65078.04,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G1/GS1 - EU West,GS1,WINDOWS,USD,ANNUAL,6412.32,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G1/GS1 - US East 2,GS1,WINDOWS,USD,ANNUAL,5080.80,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G2/GS2 - EU West,GS2,WINDOWS,USD,ANNUAL,12815.88,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G2/GS2 - US East 2,GS2,WINDOWS,USD,ANNUAL,10152.84,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G3/GS3 - EU West,GS3,WINDOWS,USD,ANNUAL,25631.76,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G3/GS3 - US East 2,GS3,WINDOWS,USD,ANNUAL,20305.68,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G4/GS4 - EU West,GS4,WINDOWS,USD,ANNUAL,51263.52,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G4/GS4 - US East 2,GS4,WINDOWS,USD,ANNUAL,40611.36,0,US East 2
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G5/GS5 - EU West,GS5,WINDOWS,USD,ANNUAL,92374.20,0,EU West
+Azure,Virtual Machines,Virtual Machines G/GS Series Windows - G5/GS5 - US East 2,GS5,WINDOWS,USD,ANNUAL,73067.16,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P10 - Disks - EU North,P10,,USD,ANNUAL,224.64,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P10 - Disks - EU West,P10,,USD,ANNUAL,247.20,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P10 - Disks - US Central,P10,,USD,ANNUAL,224.64,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P10 - Disks - US East 2,P10,,USD,ANNUAL,204.24,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P15 - Disks - EU North,P15,,USD,ANNUAL,433.32,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P15 - Disks - EU West,P15,,USD,ANNUAL,476.64,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P15 - Disks - US Central,P15,,USD,ANNUAL,433.32,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P15 - Disks - US East 2,P15,,USD,ANNUAL,393.96,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P20 - Disks - EU North,P20,,USD,ANNUAL,834.72,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P20 - Disks - EU West,P20,,USD,ANNUAL,918.12,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P20 - Disks - US Central,P20,,USD,ANNUAL,834.72,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P20 - Disks - US East 2,P20,,USD,ANNUAL,758.76,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P30 - Disks - EU North,P30,,USD,ANNUAL,1540.92,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P30 - Disks - EU West,P30,,USD,ANNUAL,1695.00,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P30 - Disks - US Central,P30,,USD,ANNUAL,1540.92,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P30 - Disks - US East 2,P30,,USD,ANNUAL,1400.88,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P4 - Disks - EU North,P4,,USD,ANNUAL,60.12,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P4 - Disks - EU West,P4,,USD,ANNUAL,66.12,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P4 - Disks - US Central,P4,,USD,ANNUAL,60.12,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P4 - Disks - US East 2,P4,,USD,ANNUAL,54.72,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P40 - Disks - EU North,P40,,USD,ANNUAL,2953.08,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P40 - Disks - EU West,P40,,USD,ANNUAL,3248.16,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P40 - Disks - US Central,P40,,USD,ANNUAL,2953.08,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P40 - Disks - US East 2,P40,,USD,ANNUAL,2684.88,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P50 - Disks - EU North,P50,,USD,ANNUAL,5649.36,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P50 - Disks - EU West,P50,,USD,ANNUAL,6214.08,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P50 - Disks - US Central,P50,,USD,ANNUAL,5649.36,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P50 - Disks - US East 2,P50,,USD,ANNUAL,5136.36,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P6 - Disks - EU North,P6,,USD,ANNUAL,116.28,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P6 - Disks - EU West,P6,,USD,ANNUAL,127.92,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P6 - Disks - US Central,P6,,USD,ANNUAL,116.28,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P6 - Disks - US East 2,P6,,USD,ANNUAL,105.84,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P60 - Disks - EU North,P60,,USD,ANNUAL,10785.36,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P60 - Disks - EU West,P60,,USD,ANNUAL,11863.32,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P60 - Disks - US Central,P60,,USD,ANNUAL,10785.36,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P60 - Disks - US East 2,P60,,USD,ANNUAL,9805.80,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P70 - Disks - EU North,P70,,USD,ANNUAL,20543.52,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P70 - Disks - EU West,P70,,USD,ANNUAL,22596.72,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P70 - Disks - US Central,P70,,USD,ANNUAL,20543.52,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P70 - Disks - US East 2,P70,,USD,ANNUAL,18677.76,0,US East 2
+Azure,Storage,Premium SSD Managed Disks - P80 - Disks - EU North,P80,,USD,ANNUAL,41086.80,0,EU North
+Azure,Storage,Premium SSD Managed Disks - P80 - Disks - EU West,P80,,USD,ANNUAL,45193.44,0,EU West
+Azure,Storage,Premium SSD Managed Disks - P80 - Disks - US Central,P80,,USD,ANNUAL,41086.80,0,US Central
+Azure,Storage,Premium SSD Managed Disks - P80 - Disks - US East 2,P80,,USD,ANNUAL,37355.52,0,US East 2

@@ -1,0 +1,25 @@
+﻿vendor,service_name,description,sku,os_type,currency,billing_type,unit_price,reservation_term,azure_region
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - CN East 2,E8-4S_V3,LINUX,CNY,ANNUAL,30943.3,0,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - CN North 2,E8-4S_V3,LINUX,CNY,ANNUAL,30943.3,0,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - CN East 2,E8-4S_V3,LINUX,CNY,ANNUAL,9165.36,1,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - CN North 2,E8-4S_V3,LINUX,CNY,ANNUAL,9165.36,1,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU North,E8-4S_V3,LINUX,USD,ANNUAL,4695.36,0,EU NORTH
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - EU West,E8-4S_V3,LINUX,USD,ANNUAL,5326.08,0,EU WEST
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US Central,E8-4S_V3,LINUX,USD,ANNUAL,4853.04,0,US CENTRAL
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E8 v3/E8s v3 - US East 2,E8-4S_V3,LINUX,USD,ANNUAL,4423.8,0,US EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - CN East 2,E16-8S_V3,LINUX,CNY,ANNUAL,61886.7,0,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - CN North 2,E16-8S_V3,LINUX,CNY,ANNUAL,61886.7,0,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - CN East 2,E16-8S_V3,LINUX,CNY,ANNUAL,18330.8,1,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - CN North 2,E16-8S_V3,LINUX,CNY,ANNUAL,18330.8,1,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU North,E16-8S_V3,LINUX,USD,ANNUAL,9390.72,0,EU NORTH
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - EU West,E16-8S_V3,LINUX,USD,ANNUAL,10652.2,0,EU WEST
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US Central,E16-8S_V3,LINUX,USD,ANNUAL,9714.84,0,US CENTRAL
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E16 v3/E16s v3 - US East 2,E16-8S_V3,LINUX,USD,ANNUAL,8856.36,0,US EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - CN East 2,E32-16S_V3,LINUX,CNY,ANNUAL,123861,0,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - CN North 2,E32-16S_V3,LINUX,CNY,ANNUAL,123861,0,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - CN East 2,E32-16S_V3,LINUX,CNY,ANNUAL,36610.3,1,CN EAST 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - CN North 2,E32-16S_V3,LINUX,CNY,ANNUAL,36610.3,1,CN NORTH 2
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU North,E32-16S_V3,LINUX,USD,ANNUAL,18772.7,0,EU NORTH
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - EU West,E32-16S_V3,LINUX,USD,ANNUAL,21304.3,0,EU WEST
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US Central,E32-16S_V3,LINUX,USD,ANNUAL,19420.9,0,US CENTRAL
+Azure,Virtual Machines,Virtual Machines Ev3/ESv3 Series - E32 v3/E32s v3 - US East 2,E32-16S_V3,LINUX,USD,ANNUAL,17712.7,0,US EAST 2

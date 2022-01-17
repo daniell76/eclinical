@@ -1,0 +1,13 @@
+﻿app,app_role,os_type
+RIM,Citrix,WINDOWS
+RIM,File Server,WINDOWS
+RIM,InSight Manager,WINDOWS
+RIM,Rendering,WINDOWS
+RIM,Viewing,WINDOWS
+RIM,Micro Services,WINDOWS
+RIM,Database,LINUX
+RIM,Standby Database,LINUX
+CTMS,IMPACT,LINUX
+CTMS,Style Report,LINUX
+CTMS,Database,LINUX
+CTMS,Standby Database,LINUX

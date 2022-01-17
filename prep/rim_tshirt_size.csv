@@ -1,0 +1,6 @@
+﻿tshirt_size,db_size_upper,azure_file_usage
+XSMALL,12,0.6
+SMALL,30,0.7
+MEDIUM,70,0.8
+LARGE,200,0.9
+XLARGE,300,1

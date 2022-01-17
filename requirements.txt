@@ -1,0 +1,13 @@
+pydantic>=1.8.2
+pydantic[email]
+fastapi>=0.68
+uvicorn>=0.15
+PyJWT>=2.1
+PyMySQL>=1.0.2
+SQLAlchemy>=1.4.23
+bcrypt>=3.2
+passlib>=1.7.4
+python-multipart>=0.0.5
+cryptography>=3.4.7
+starlette>=0.14.2
+PyYAML>=5.4.1
