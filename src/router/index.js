@@ -14,7 +14,7 @@ const routes = [
                 path: "/dashboard",
                 name: "dashboard",
                 meta: {
-                    title: '系统首页'
+                    title: 'Home'
                 },
                 component: () => import ( /* webpackChunkName: "dashboard" */ "../views/Dashboard.vue")
             }, {
@@ -99,7 +99,7 @@ const routes = [
                 path: '/user',
                 name: 'user',
                 meta: {
-                    title: '个人中心'
+                    title: 'Profile'
                 },
                 component: () => import (/* webpackChunkName: "user" */ '../views/User.vue')
             }, {
@@ -109,6 +109,43 @@ const routes = [
                     title: '富文本编辑器'
                 },
                 component: () => import (/* webpackChunkName: "editor" */ '../views/Editor.vue')
+            }, {
+                path: '/RimProjSum',
+                name: 'RIM Project Summaries',
+                meta: {
+                    title: 'RIM: Summary',
+                },
+                component: () => import (/* webpackChunkName: "editor" */ '../views/RimProjSum.vue')
+            }, {
+                path: '/RimProjDetail',
+                name: 'RIM Project Details',
+                meta: {
+                    title: 'RIM: Detail',
+                },
+                component: () => import (/* webpackChunkName: "editor" */ '../views/RimProjDetail.vue')
+            }, {
+                path: '/DbResourcePrices',
+                name: 'resource_prices',
+                meta: {
+                    title: 'DB: resource_prices',
+                    admin: true,
+                },
+                component: () => import (/* webpackChunkName: "editor" */ '../views/DbResourcePrice.vue')
+            }, {
+                path: '/UserMgmt',
+                name: 'User Management',
+                meta: {
+                    title: 'User Management',
+                    admin: true,
+                },
+                component: () => import (/* webpackChunkName: "editor" */ '../views/UserMgmt.vue')
+            }, {
+                path: '/UnderConstruction',
+                name: 'Under Construction',
+                meta: {
+                    title: 'Under Construction',
+                },
+                component: () => import(/* webpackChunkName: "editor" */ '../views/UnderConstruction.vue')
             }
         ]
     }, {
@@ -128,8 +165,9 @@ const router = createRouter({
 
 router.beforeEach((to, from, next) => {
     document.title = `${to.meta.title} | vue-manage-system`;
-    const role = localStorage.getItem('ms_username');
-    if (!role && to.path !== '/login') {
+    const user = localStorage.getItem('ms_username');
+    const role = localStorage.getItem('role');
+    if (!user && to.path !== '/login') {
         next('/login');
     } else if (to.meta.permission) {
         // 如果是管理员权限则可进入，这里只是简单的模拟管理员权限而已

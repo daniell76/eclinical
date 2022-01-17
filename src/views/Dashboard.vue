@@ -6,29 +6,32 @@
                     <div class="user-info">
                         <img src="../assets/img/img.jpg" class="user-avator" alt />
                         <div class="user-info-cont">
-                            <div class="user-info-name">{{ name }}</div>
-                            <div>{{ role }}</div>
+                            <div class="user-info-name">{{ userData.username }}</div>
+                            <div>{{ userData.role }}</div>
                         </div>
                     </div>
                     <div class="user-info-list">
-                        上次登录时间：
-                        <span>2019-11-01</span>
+                        Last Login Time:
+                        <span>{{ userData.login_time }}</span>
                     </div>
                     <div class="user-info-list">
-                        上次登录地点：
-                        <span>东莞</span>
+                        Last Login Location:
+                        <span>--</span>
                     </div>
                 </el-card>
                 <el-card shadow="hover" style="height:252px;">
                     <template #header>
                         <div class="clearfix">
-                            <span>语言详情</span>
+                            <span>T-Shirt Size</span>
                         </div>
                     </template>
-                    Vue
-                    <el-progress :percentage="71.3" color="#42b983"></el-progress>JavaScript
-                    <el-progress :percentage="24.1" color="#f1e05a"></el-progress>CSS
-                    <el-progress :percentage="13.7"></el-progress>HTML
+                    Small
+                    <el-progress :percentage="71.3" color="#42b983"></el-progress>
+                    Medium
+                    <el-progress :percentage="24.1" color="#f1e05a"></el-progress>
+                    Large
+                    <el-progress :percentage="13.7"></el-progress>
+                    XLarge
                     <el-progress :percentage="5.9" color="#f56c6c"></el-progress>
                 </el-card>
             </el-col>
@@ -40,7 +43,7 @@
                                 <i class="el-icon-user-solid grid-con-icon"></i>
                                 <div class="grid-cont-right">
                                     <div class="grid-num">1234</div>
-                                    <div>用户访问量</div>
+                                    <div>Users</div>
                                 </div>
                             </div>
                         </el-card>
@@ -48,10 +51,10 @@
                     <el-col :span="8">
                         <el-card shadow="hover" :body-style="{ padding: '0px' }">
                             <div class="grid-content grid-con-2">
-                                <i class="el-icon-message-solid grid-con-icon"></i>
+                                <i class="el-icon-s-marketing grid-con-icon"></i>
                                 <div class="grid-cont-right">
                                     <div class="grid-num">321</div>
-                                    <div>系统消息</div>
+                                    <div>Projects</div>
                                 </div>
                             </div>
                         </el-card>
@@ -59,10 +62,10 @@
                     <el-col :span="8">
                         <el-card shadow="hover" :body-style="{ padding: '0px' }">
                             <div class="grid-content grid-con-3">
-                                <i class="el-icon-s-goods grid-con-icon"></i>
+                                <i class="el-icon-s-promotion grid-con-icon"></i>
                                 <div class="grid-cont-right">
                                     <div class="grid-num">5000</div>
-                                    <div>数量</div>
+                                    <div>Versions</div>
                                 </div>
                             </div>
                         </el-card>
@@ -71,8 +74,8 @@
                 <el-card shadow="hover" style="height:403px;">
                     <template #header>
                         <div class="clearfix">
-                            <span>待办事项</span>
-                            <el-button style="float: right; padding: 3px 0" type="text">添加</el-button>
+                            <span>To-Do List</span>
+                            <el-button style="float: right; padding: 3px 0" type="text">Add</el-button>
                         </div>
                     </template>
 
@@ -116,13 +119,25 @@
 
 <script>
 import Schart from "vue-schart";
-import { reactive } from "vue";
+import { ref, reactive, getCurrentInstance } from "vue";
+import { useStore } from "vuex";
 export default {
     name: "dashboard",
     components: { Schart },
     setup() {
-        const name = localStorage.getItem("ms_username");
-        const role = name === "admin" ? "超级管理员" : "普通用户";
+        const { proxy } = getCurrentInstance();
+        const userData = reactive({});
+        const store = useStore();
+        // 获取表格数据
+        const getData = () => {
+            proxy.$api.get('/user/me').then(res => {
+                userData.id = res.data.id;
+                userData.username = res.data.username;
+                userData.role = res.data.role;
+                userData.login_time = new Date(res.data.login_time * 1000).toLocaleString()
+            });
+        };
+        getData();
 
         const data = reactive([
             {
@@ -157,21 +172,21 @@ export default {
         const options = {
             type: "bar",
             title: {
-                text: "最近一周各品类销售图",
+                text: "Demo Weekly Dashboard",
             },
             xRorate: 25,
-            labels: ["周一", "周二", "周三", "周四", "周五"],
+            labels: ["Mon", "Tue", "Wed", "Thu", "Fri"],
             datasets: [
                 {
-                    label: "家电",
+                    label: "RIM",
                     data: [234, 278, 270, 190, 230],
                 },
                 {
-                    label: "百货",
+                    label: "CTMS",
                     data: [164, 178, 190, 135, 160],
                 },
                 {
-                    label: "食品",
+                    label: "EDC",
                     data: [144, 198, 150, 235, 120],
                 },
             ],
@@ -179,58 +194,57 @@ export default {
         const options2 = {
             type: "line",
             title: {
-                text: "最近几个月各品类销售趋势图",
+                text: "Demo Monthly Dashboard",
             },
-            labels: ["6月", "7月", "8月", "9月", "10月"],
+            labels: ["Aug", "Sep", "Oct", "Nov", "Dec"],
             datasets: [
                 {
-                    label: "家电",
+                    label: "RIM",
                     data: [234, 278, 270, 190, 230],
                 },
                 {
-                    label: "百货",
+                    label: "CTMS",
                     data: [164, 178, 150, 135, 160],
                 },
                 {
-                    label: "食品",
+                    label: "EDC",
                     data: [74, 118, 200, 235, 90],
                 },
             ],
         };
         const todoList = reactive([
             {
-                title: "今天要修复100个bug",
+                title: "This is the 1st task.",
                 status: false,
             },
             {
-                title: "今天要修复100个bug",
+                title: "This is the 2nd task.",
                 status: false,
             },
             {
-                title: "今天要写100行代码加几个bug吧",
+                title: "This is the 3rd task.",
                 status: false,
             },
             {
-                title: "今天要修复100个bug",
+                title: "This is the 4th task.",
                 status: false,
             },
             {
-                title: "今天要修复100个bug",
+                title: "This is the 5th task.",
                 status: true,
             },
             {
-                title: "今天要写100行代码加几个bug吧",
+                title: "This is the 6th task.",
                 status: true,
             },
         ]);
 
         return {
-            name,
+            userData,
             data,
             options,
             options2,
             todoList,
-            role,
         };
     },
 };

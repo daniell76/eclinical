@@ -5,7 +5,7 @@
                 <el-card shadow="hover">
                     <template #header>
                         <div class="clearfix">
-                            <span>基础信息</span>
+                            <span>Personal Information</span>
                         </div>
                     </template>
                     <div class="info">
@@ -24,22 +24,23 @@
                 <el-card shadow="hover">
                     <template #header>
                         <div class="clearfix">
-                            <span>账户编辑</span>
+                            <span>Account Information</span>
                         </div>
                     </template>
-                    <el-form label-width="90px">
-                        <el-form-item label="用户名："> {{ name }} </el-form-item>
-                        <el-form-item label="旧密码：">
+                    <el-form label-width="180px">
+                        <el-form-item label="User Name："> {{ name }} </el-form-item>
+                        <el-form-item label="Old Password: ">
                             <el-input type="password" v-model="form.old"></el-input>
                         </el-form-item>
-                        <el-form-item label="新密码：">
+                        <el-form-item label="New Password: ">
                             <el-input type="password" v-model="form.new"></el-input>
                         </el-form-item>
-                        <el-form-item label="个人简介：">
-                            <el-input v-model="form.desc"></el-input>
+                        <el-form-item label="Role: ">
+                            <!-- <el-input v-model="form.role"></el-input> -->
+                            {{ role }}
                         </el-form-item>
                         <el-form-item>
-                            <el-button type="primary" @click="onSubmit">保存</el-button>
+                            <el-button type="primary" @click="onSubmit">Save</el-button>
                         </el-form-item>
                     </el-form>
                 </el-card>
@@ -62,6 +63,7 @@
 </template>
 
 <script>
+import { useStore } from "vuex";
 import { reactive, ref } from "vue";
 import VueCropper from "vue-cropperjs";
 import "cropperjs/dist/cropper.css";
@@ -72,11 +74,16 @@ export default {
         VueCropper,
     },
     setup() {
-        const name = localStorage.getItem("ms_username");
+        const store = useStore();
+        // const name = localStorage.getItem("ms_username");
+        const name = store.state.username;
+        const role = store.state.role;
+        console.log(role);
         const form = reactive({
             old: "",
             new: "",
             desc: "不可能！我的代码怎么可能会有bug！",
+            role: store.state.role,
         });
         const onSubmit = () => {};
 
@@ -116,6 +123,7 @@ export default {
 
         return {
             name,
+            role,
             form,
             onSubmit,
             cropper,

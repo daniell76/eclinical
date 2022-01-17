@@ -10,14 +10,14 @@
         </ul>
         <div class="tags-close-box">
             <el-dropdown @command="handleTags">
-                <el-button size="mini" type="primary">
-                    标签选项
+                <el-button style="background-color: #5D2ACC;" size="mini" type="primary">
+                    Tabs
                     <i class="el-icon-arrow-down el-icon--right"></i>
                 </el-button>
                 <template #dropdown>
                     <el-dropdown-menu size="small">
-                        <el-dropdown-item command="other">关闭其他</el-dropdown-item>
-                        <el-dropdown-item command="all">关闭所有</el-dropdown-item>
+                        <el-dropdown-item command="other">Close Others</el-dropdown-item>
+                        <el-dropdown-item command="all">Clost All</el-dropdown-item>
                     </el-dropdown-menu>
                 </template>
             </el-dropdown>

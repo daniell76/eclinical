@@ -3,7 +3,12 @@ import {createStore} from 'vuex'
 export default createStore({
     state: {
         tagsList: [],
-        collapse: false
+        collapse: false,
+        userInfo: {
+            username: "",
+            role:"",
+            token:""
+        }
     },
     mutations: {
         delTagsItem(state, data) {
@@ -49,6 +54,16 @@ export default createStore({
         // 侧边栏折叠
         handleCollapse(state, data) {
             state.collapse = data;
+        },
+        logInUser(state, userInfo) {
+            state.userInfo = userInfo;
+        },
+        logOutUser(state) {
+            state.userInfo = {
+                username: "",
+                role:"",
+                token:""
+            };
         }
     },
     actions: {},

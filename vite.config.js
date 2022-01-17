@@ -5,5 +5,11 @@ export default {
     plugins: [vue()],
     optimizeDeps: {
         include: ['schart.js']
-    }
+    },
+    server: {
+        cors: true,
+    },
+    devServer: {
+        cors: true,
+    },
 }
